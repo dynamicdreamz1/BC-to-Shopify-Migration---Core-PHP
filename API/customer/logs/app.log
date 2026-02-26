@@ -1,0 +1,1875 @@
+[2026-02-19 14:42:45] [INFO] Customer been created - Shopidy ID - 9982689149242 - BC id=1004
+[2026-02-19 14:42:52] [INFO] Customer been created - Shopidy ID - 9982689378618 - BC id=1003
+[2026-02-19 14:42:59] [INFO] Customer been created - Shopidy ID - 9982689542458 - BC id=1002
+[2026-02-19 14:43:03] [INFO] Customer been created - Shopidy ID - 9982689607994 - BC id=1001
+[2026-02-19 14:43:07] [INFO] Customer been created - Shopidy ID - 9982689771834 - BC id=1000
+[2026-02-19 14:43:13] [INFO] Customer been created - Shopidy ID - 9982689870138 - BC id=999
+[2026-02-19 14:43:18] [INFO] Customer been created - Shopidy ID - 9982690033978 - BC id=998
+[2026-02-19 14:43:22] [INFO] Customer been created - Shopidy ID - 9982690197818 - BC id=997
+[2026-02-19 14:43:26] [INFO] Customer been created - Shopidy ID - 9982690296122 - BC id=996
+[2026-02-19 14:43:31] [INFO] Customer been created - Shopidy ID - 9982690394426 - BC id=995
+[2026-02-19 14:43:35] [ERROR] Execption error - Shopify API Error (422): {"errors":{"address":["has already been taken"]}} - BC id=994 -- Email: Donna@drkristiansen.com
+[2026-02-19 14:43:39] [INFO] Customer been created - Shopidy ID - 9982690623802 - BC id=993
+[2026-02-19 14:43:43] [INFO] Customer been created - Shopidy ID - 9982690722106 - BC id=992
+[2026-02-19 14:43:53] [INFO] Customer been created - Shopidy ID - 9982690787642 - BC id=991
+[2026-02-19 14:43:59] [INFO] Customer been created - Shopidy ID - 9982690951482 - BC id=990
+[2026-02-19 14:44:04] [ERROR] Execption error - Shopify API Error (422): {"errors":{"address":["has already been taken"]}} - BC id=989 -- Email: jscaplen@wm.com
+[2026-02-19 14:44:08] [INFO] Customer been created - Shopidy ID - 9982691279162 - BC id=988
+[2026-02-19 14:44:15] [INFO] Customer been created - Shopidy ID - 9982691344698 - BC id=987
+[2026-02-19 14:44:21] [INFO] Customer been created - Shopidy ID - 9982691606842 - BC id=986
+[2026-02-19 14:44:26] [INFO] Customer been created - Shopidy ID - 9982691737914 - BC id=985
+[2026-02-19 14:44:30] [INFO] Customer been created - Shopidy ID - 9982691901754 - BC id=984
+[2026-02-19 14:44:36] [INFO] Customer been created - Shopidy ID - 9982691967290 - BC id=983
+[2026-02-19 14:44:41] [INFO] Customer been created - Shopidy ID - 9982692098362 - BC id=982
+[2026-02-19 14:44:45] [ERROR] Execption error - Shopify API Error (422): {"errors":{"address":["has already been taken"]}} - BC id=981 -- Email: hcarman@anshlabs.com
+[2026-02-19 14:44:49] [INFO] Customer been created - Shopidy ID - 9982692229434 - BC id=980
+[2026-02-19 14:44:53] [INFO] Customer been created - Shopidy ID - 9982692294970 - BC id=979
+[2026-02-19 14:45:01] [ERROR] Execption error - Shopify API Error (422): {"errors":{"address":["has already been taken"]}} - BC id=978 -- Email: isabel.campo.kdrp@gmail.com
+[2026-02-19 14:45:05] [INFO] Customer been created - Shopidy ID - 9982692524346 - BC id=977
+[2026-02-19 14:45:09] [INFO] Customer been created - Shopidy ID - 9982692786490 - BC id=976
+[2026-02-19 14:45:13] [INFO] Customer been created - Shopidy ID - 9982692884794 - BC id=975
+[2026-02-19 14:45:18] [INFO] Customer been created - Shopidy ID - 9982692950330 - BC id=974
+[2026-02-19 14:45:24] [INFO] Customer been created - Shopidy ID - 9982693015866 - BC id=973
+[2026-02-19 14:45:28] [INFO] Customer been created - Shopidy ID - 9982693081402 - BC id=972
+[2026-02-19 14:45:32] [INFO] Customer been created - Shopidy ID - 9982693212474 - BC id=971
+[2026-02-19 14:45:37] [INFO] Customer been created - Shopidy ID - 9982693310778 - BC id=970
+[2026-02-19 14:45:43] [INFO] Customer been created - Shopidy ID - 9982693409082 - BC id=969
+[2026-02-19 14:45:50] [INFO] Customer been created - Shopidy ID - 9982693540154 - BC id=968
+[2026-02-19 14:45:54] [INFO] Customer been created - Shopidy ID - 9982693835066 - BC id=967
+[2026-02-19 14:45:58] [INFO] Customer been created - Shopidy ID - 9982693933370 - BC id=966
+[2026-02-19 14:46:02] [INFO] Customer been created - Shopidy ID - 9982693966138 - BC id=965
+[2026-02-19 14:46:07] [INFO] Customer been created - Shopidy ID - 9982694097210 - BC id=964
+[2026-02-19 14:46:11] [INFO] Customer been created - Shopidy ID - 9982694359354 - BC id=963
+[2026-02-19 14:46:15] [INFO] Customer been created - Shopidy ID - 9982694490426 - BC id=962
+[2026-02-19 14:46:15] [ERROR] Execption error - Shopify API Error (422): {"errors":{"phone":["is invalid"]}} - BC id=961 -- Email: biotechpro.service@gmail.com
+[2026-02-19 14:46:20] [INFO] Customer been created - Shopidy ID - 9982694687034 - BC id=960
+[2026-02-19 14:46:24] [INFO] Customer been created - Shopidy ID - 9982694752570 - BC id=959
+[2026-02-19 14:46:30] [INFO] Customer been created - Shopidy ID - 9982694949178 - BC id=958
+[2026-02-19 14:46:37] [INFO] Customer been created - Shopidy ID - 9982695113018 - BC id=957
+[2026-02-19 14:46:41] [INFO] Customer been created - Shopidy ID - 9982695473466 - BC id=956
+[2026-02-19 14:46:48] [INFO] Customer been created - Shopidy ID - 9982695604538 - BC id=955
+[2026-02-19 14:46:54] [INFO] Customer been created - Shopidy ID - 9982695768378 - BC id=954
+[2026-02-19 14:46:59] [INFO] Customer been created - Shopidy ID - 9982695866682 - BC id=953
+[2026-02-19 14:47:03] [INFO] Customer been created - Shopidy ID - 9982695997754 - BC id=952
+[2026-02-19 14:47:07] [INFO] Customer been created - Shopidy ID - 9982696259898 - BC id=951
+[2026-02-19 14:47:11] [INFO] Customer been created - Shopidy ID - 9982696423738 - BC id=950
+[2026-02-19 14:47:15] [INFO] Customer been created - Shopidy ID - 9982696554810 - BC id=949
+[2026-02-19 14:47:22] [INFO] Customer been created - Shopidy ID - 9982696882490 - BC id=948
+[2026-02-19 14:47:26] [INFO] Customer been created - Shopidy ID - 9982697111866 - BC id=947
+[2026-02-19 14:47:33] [INFO] Customer been created - Shopidy ID - 9982697242938 - BC id=946
+[2026-02-19 14:47:37] [INFO] Customer been created - Shopidy ID - 9982697406778 - BC id=945
+[2026-02-19 14:47:41] [INFO] Customer been created - Shopidy ID - 9982697570618 - BC id=944
+[2026-02-19 14:47:48] [INFO] Customer been created - Shopidy ID - 9982697668922 - BC id=943
+[2026-02-19 14:47:52] [INFO] Customer been created - Shopidy ID - 9982697963834 - BC id=942
+[2026-02-19 14:47:57] [INFO] Customer been created - Shopidy ID - 9982698062138 - BC id=941
+[2026-02-19 14:48:01] [INFO] Customer been created - Shopidy ID - 9982698225978 - BC id=940
+[2026-02-19 14:48:05] [INFO] Customer been created - Shopidy ID - 9982698324282 - BC id=939
+[2026-02-19 14:48:10] [INFO] Customer been created - Shopidy ID - 9982698586426 - BC id=938
+[2026-02-19 14:48:14] [INFO] Customer been created - Shopidy ID - 9982698651962 - BC id=937
+[2026-02-19 14:48:21] [INFO] Customer been created - Shopidy ID - 9982698881338 - BC id=936
+[2026-02-19 14:48:25] [INFO] Customer been created - Shopidy ID - 9982699110714 - BC id=935
+[2026-02-19 14:48:31] [INFO] Customer been created - Shopidy ID - 9982699340090 - BC id=934
+[2026-02-19 14:48:36] [INFO] Customer been created - Shopidy ID - 9982699503930 - BC id=933
+[2026-02-19 14:48:40] [INFO] Customer been created - Shopidy ID - 9982699864378 - BC id=932
+[2026-02-19 14:48:44] [INFO] Customer been created - Shopidy ID - 9982699962682 - BC id=931
+[2026-02-19 14:48:49] [INFO] Customer been created - Shopidy ID - 9982700159290 - BC id=930
+[2026-02-19 14:48:53] [INFO] Customer been created - Shopidy ID - 9982700454202 - BC id=929
+[2026-02-19 14:48:57] [INFO] Customer been created - Shopidy ID - 9982700519738 - BC id=928
+[2026-02-19 14:49:02] [ERROR] Execption error - Shopify API Error (422): {"errors":{"address":["has already been taken"]}} - BC id=927 -- Email: pharmacy@southernspecialty.org
+[2026-02-19 14:49:06] [INFO] Customer been created - Shopidy ID - 9982700945722 - BC id=926
+[2026-02-19 14:49:10] [INFO] Customer been created - Shopidy ID - 9982701044026 - BC id=925
+[2026-02-19 14:49:14] [INFO] Customer been created - Shopidy ID - 9982701175098 - BC id=924
+[2026-02-19 14:49:18] [INFO] Customer been created - Shopidy ID - 9982701404474 - BC id=923
+[2026-02-19 14:49:23] [INFO] Customer been created - Shopidy ID - 9982701535546 - BC id=922
+[2026-02-19 14:49:23] [ERROR] Execption error - Shopify API Error (422): {"errors":{"phone":["is invalid"]}} - BC id=921 -- Email: designer1@dynamicdreamz.com
+[2026-02-19 14:49:27] [INFO] Customer been created - Shopidy ID - 9982701666618 - BC id=920
+[2026-02-19 14:49:31] [INFO] Customer been created - Shopidy ID - 9982701764922 - BC id=919
+[2026-02-19 14:49:35] [INFO] Customer been created - Shopidy ID - 9982701895994 - BC id=918
+[2026-02-19 14:49:42] [INFO] Customer been created - Shopidy ID - 9982702092602 - BC id=917
+[2026-02-19 14:49:46] [INFO] Customer been created - Shopidy ID - 9982702289210 - BC id=916
+[2026-02-19 14:49:50] [INFO] Customer been created - Shopidy ID - 9982702354746 - BC id=915
+[2026-02-19 14:49:55] [INFO] Customer been created - Shopidy ID - 9982702485818 - BC id=914
+[2026-02-19 14:50:01] [INFO] Customer been created - Shopidy ID - 9982702518586 - BC id=913
+[2026-02-19 14:50:06] [INFO] Customer been created - Shopidy ID - 9982702682426 - BC id=912
+[2026-02-19 14:50:10] [INFO] Customer been created - Shopidy ID - 9982702911802 - BC id=911
+[2026-02-19 14:50:26] [INFO] Customer been created - Shopidy ID - 9982703042874 - BC id=910
+[2026-02-19 14:53:01] [INFO] Customer been created - Shopidy ID - 9982703337786 - BC id=909
+[2026-02-19 14:53:01] [ERROR] Execption error - Shopify API Error (422): {"errors":{"phone":["has already been taken"]}} - BC id=908 -- Email: rodwolfe1986@gmail.com
+[2026-02-19 14:53:06] [INFO] Customer been created - Shopidy ID - 9982706450746 - BC id=907
+[2026-02-19 14:53:12] [INFO] Customer been created - Shopidy ID - 9982706647354 - BC id=906
+[2026-02-19 14:53:16] [INFO] Customer been created - Shopidy ID - 9982706778426 - BC id=905
+[2026-02-19 14:53:23] [INFO] Customer been created - Shopidy ID - 9982706909498 - BC id=904
+[2026-02-19 14:53:27] [INFO] Customer been created - Shopidy ID - 9982707073338 - BC id=903
+[2026-02-19 14:53:31] [INFO] Customer been created - Shopidy ID - 9982707138874 - BC id=902
+[2026-02-19 14:53:36] [ERROR] Execption error - Shopify API Error (422): {"errors":{"address":["has already been taken"]}} - BC id=901 -- Email: Astornut74@yahoo.com
+[2026-02-19 14:53:40] [INFO] Customer been created - Shopidy ID - 9982707433786 - BC id=900
+[2026-02-19 14:53:44] [INFO] Customer been created - Shopidy ID - 9982707564858 - BC id=899
+[2026-02-19 14:53:49] [INFO] Customer been created - Shopidy ID - 9982707630394 - BC id=898
+[2026-02-19 14:53:53] [ERROR] Execption error - Shopify API Error (422): {"errors":{"address":["has already been taken"]}} - BC id=897 -- Email: tnickleski@rfcity.org
+[2026-02-19 14:53:57] [INFO] Customer been created - Shopidy ID - 9982707892538 - BC id=896
+[2026-02-19 14:54:04] [INFO] Customer been created - Shopidy ID - 9982707925306 - BC id=895
+[2026-02-19 14:54:08] [INFO] Customer been created - Shopidy ID - 9982708056378 - BC id=894
+[2026-02-19 14:54:13] [INFO] Customer been created - Shopidy ID - 9982708089146 - BC id=893
+[2026-02-19 14:54:17] [INFO] Customer been created - Shopidy ID - 9982708252986 - BC id=892
+[2026-02-19 14:54:23] [INFO] Customer been created - Shopidy ID - 9982708351290 - BC id=891
+[2026-02-19 14:54:28] [INFO] Customer been created - Shopidy ID - 9982708482362 - BC id=890
+[2026-02-19 14:54:32] [INFO] Customer been created - Shopidy ID - 9982708711738 - BC id=889
+[2026-02-19 14:54:32] [ERROR] Execption error - Shopify API Error (422): {"errors":{"phone":["has already been taken"]}} - BC id=888 -- Email: cecily.halliburton@parks.nyc.gov
+[2026-02-19 14:54:39] [INFO] Customer been created - Shopidy ID - 9982708842810 - BC id=887
+[2026-02-19 14:54:43] [INFO] Customer been created - Shopidy ID - 9982708941114 - BC id=886
+[2026-02-19 14:54:48] [INFO] Customer been created - Shopidy ID - 9982709170490 - BC id=885
+[2026-02-19 14:54:52] [INFO] Customer been created - Shopidy ID - 9982709301562 - BC id=884
+[2026-02-19 14:54:56] [INFO] Customer been created - Shopidy ID - 9982709432634 - BC id=883
+[2026-02-19 14:55:02] [INFO] Customer been created - Shopidy ID - 9982709662010 - BC id=882
+[2026-02-19 14:55:07] [ERROR] Execption error - Shopify API Error (422): {"errors":{"address":["has already been taken"]}} - BC id=881 -- Email: laurenu@jrsalesinc.com
+[2026-02-19 14:55:12] [INFO] Customer been created - Shopidy ID - 9982709956922 - BC id=880
+[2026-02-19 14:55:16] [INFO] Customer been created - Shopidy ID - 9982709989690 - BC id=879
+[2026-02-19 14:55:20] [ERROR] Execption error - Shopify API Error (422): {"errors":{"address":["has already been taken"]}} - BC id=878 -- Email: mary@rinktec.com
+[2026-02-19 14:55:24] [INFO] Customer been created - Shopidy ID - 9982710219066 - BC id=877
+[2026-02-19 14:55:29] [INFO] Customer been created - Shopidy ID - 9982710284602 - BC id=876
+[2026-02-19 14:55:33] [INFO] Customer been created - Shopidy ID - 9982710415674 - BC id=875
+[2026-02-19 14:55:37] [INFO] Customer been created - Shopidy ID - 9982710448442 - BC id=874
+[2026-02-19 14:55:41] [INFO] Customer been created - Shopidy ID - 9982710579514 - BC id=873
+[2026-02-19 14:55:45] [INFO] Customer been created - Shopidy ID - 9982710677818 - BC id=872
+[2026-02-19 14:55:49] [INFO] Customer been created - Shopidy ID - 9982710776122 - BC id=871
+[2026-02-19 14:55:54] [ERROR] Execption error - Shopify API Error (422): {"errors":{"address":["has already been taken"]}} - BC id=870 -- Email: dappen@scadaware.com
+[2026-02-19 14:55:58] [INFO] Customer been created - Shopidy ID - 9982711005498 - BC id=869
+[2026-02-19 14:56:05] [INFO] Customer been created - Shopidy ID - 9982711103802 - BC id=868
+[2026-02-19 14:56:09] [INFO] Customer been created - Shopidy ID - 9982711398714 - BC id=867
+[2026-02-19 14:56:13] [INFO] Customer been created - Shopidy ID - 9982711529786 - BC id=866
+[2026-02-19 14:56:17] [INFO] Customer been created - Shopidy ID - 9982711595322 - BC id=865
+[2026-02-19 14:56:21] [INFO] Customer been created - Shopidy ID - 9982711693626 - BC id=864
+[2026-02-19 14:56:25] [INFO] Customer been created - Shopidy ID - 9982711726394 - BC id=863
+[2026-02-19 14:56:29] [INFO] Customer been created - Shopidy ID - 9982711791930 - BC id=862
+[2026-02-19 14:56:34] [INFO] Customer been created - Shopidy ID - 9982711857466 - BC id=861
+[2026-02-19 14:56:38] [INFO] Customer been created - Shopidy ID - 9982711988538 - BC id=860
+[2026-02-19 14:56:42] [INFO] Customer been created - Shopidy ID - 9982712119610 - BC id=859
+[2026-02-19 14:56:46] [INFO] Customer been created - Shopidy ID - 9982712316218 - BC id=858
+[2026-02-19 14:56:50] [INFO] Customer been created - Shopidy ID - 9982712414522 - BC id=857
+[2026-02-19 14:56:57] [INFO] Customer been created - Shopidy ID - 9982712480058 - BC id=856
+[2026-02-19 14:57:01] [ERROR] Execption error - Shopify API Error (422): {"errors":{"address":["has already been taken"]}} - BC id=855 -- Email: stainless@earthlink.net
+[2026-02-19 14:57:05] [INFO] Customer been created - Shopidy ID - 9982712774970 - BC id=854
+[2026-02-19 14:57:10] [INFO] Customer been created - Shopidy ID - 9982712971578 - BC id=853
+[2026-02-19 14:57:14] [INFO] Customer been created - Shopidy ID - 9982713037114 - BC id=852
+[2026-02-19 14:57:18] [INFO] Customer been created - Shopidy ID - 9982713135418 - BC id=851
+[2026-02-19 14:57:22] [INFO] Customer been created - Shopidy ID - 9982713200954 - BC id=850
+[2026-02-19 14:57:24] [ERROR] No addresses found - - BC id=849
+[2026-02-19 14:57:28] [INFO] Customer been created - Shopidy ID - 9982713397562 - BC id=848
+[2026-02-19 14:57:32] [INFO] Customer been created - Shopidy ID - 9982713463098 - BC id=847
+[2026-02-19 14:57:37] [INFO] Customer been created - Shopidy ID - 9982713561402 - BC id=846
+[2026-02-19 14:57:41] [INFO] Customer been created - Shopidy ID - 9982713692474 - BC id=845
+[2026-02-19 14:57:45] [INFO] Customer been created - Shopidy ID - 9982713790778 - BC id=844
+[2026-02-19 14:57:50] [ERROR] Execption error - Shopify API Error (422): {"errors":{"address":["has already been taken"]}} - BC id=843 -- Email: rwittenzellner@rhwhite.com
+[2026-02-19 14:57:50] [ERROR] Execption error - Shopify API Error (422): {"errors":{"phone":["is invalid"]}} - BC id=842 -- Email: ramy.saleh@advatechs.com
+[2026-02-19 14:57:54] [INFO] Customer been created - Shopidy ID - 9982713954618 - BC id=841
+[2026-02-19 14:57:58] [INFO] Customer been created - Shopidy ID - 9982714020154 - BC id=840
+[2026-02-19 14:58:05] [INFO] Customer been created - Shopidy ID - 9982714151226 - BC id=839
+[2026-02-19 14:58:09] [INFO] Customer been created - Shopidy ID - 9982714478906 - BC id=838
+[2026-02-19 14:58:13] [INFO] Customer been created - Shopidy ID - 9982714544442 - BC id=837
+[2026-02-19 14:58:18] [INFO] Customer been created - Shopidy ID - 9982714609978 - BC id=836
+[2026-02-19 14:58:22] [INFO] Customer been created - Shopidy ID - 9982714773818 - BC id=835
+[2026-02-19 14:58:29] [INFO] Customer been created - Shopidy ID - 9982714839354 - BC id=834
+[2026-02-19 14:58:33] [INFO] Customer been created - Shopidy ID - 9982714904890 - BC id=833
+[2026-02-19 14:58:37] [INFO] Customer been created - Shopidy ID - 9982715003194 - BC id=832
+[2026-02-19 14:58:42] [INFO] Customer been created - Shopidy ID - 9982715035962 - BC id=831
+[2026-02-19 14:58:46] [INFO] Customer been created - Shopidy ID - 9982715068730 - BC id=830
+[2026-02-19 14:58:50] [INFO] Customer been created - Shopidy ID - 9982715167034 - BC id=829
+[2026-02-19 14:58:54] [INFO] Customer been created - Shopidy ID - 9982715265338 - BC id=828
+[2026-02-19 14:58:59] [INFO] Customer been created - Shopidy ID - 9982715363642 - BC id=827
+[2026-02-19 14:59:05] [INFO] Customer been created - Shopidy ID - 9982715461946 - BC id=826
+[2026-02-19 14:59:09] [INFO] Customer been created - Shopidy ID - 9982715691322 - BC id=825
+[2026-02-19 14:59:16] [INFO] Customer been created - Shopidy ID - 9982715789626 - BC id=824
+[2026-02-19 14:59:20] [INFO] Customer been created - Shopidy ID - 9982715855162 - BC id=823
+[2026-02-19 14:59:24] [INFO] Customer been created - Shopidy ID - 9982715953466 - BC id=822
+[2026-02-19 14:59:29] [INFO] Customer been created - Shopidy ID - 9982716084538 - BC id=821
+[2026-02-19 14:59:33] [INFO] Customer been created - Shopidy ID - 9982716150074 - BC id=820
+[2026-02-19 14:59:37] [INFO] Customer been created - Shopidy ID - 9982716248378 - BC id=819
+[2026-02-19 14:59:41] [INFO] Customer been created - Shopidy ID - 9982716412218 - BC id=818
+[2026-02-19 14:59:48] [INFO] Customer been created - Shopidy ID - 9982716477754 - BC id=817
+[2026-02-19 14:59:52] [INFO] Customer been created - Shopidy ID - 9982716510522 - BC id=816
+[2026-02-19 14:59:56] [INFO] Customer been created - Shopidy ID - 9982716543290 - BC id=815
+[2026-02-19 15:00:00] [ERROR] Execption error - Shopify API Error (422): {"errors":{"address":["has already been taken"]}} - BC id=814 -- Email: gseaman@oandmsolutions.com
+[2026-02-19 15:00:07] [INFO] Customer been created - Shopidy ID - 9982716805434 - BC id=813
+[2026-02-19 15:00:16] [INFO] Customer been created - Shopidy ID - 9982717002042 - BC id=812
+[2026-02-19 15:00:20] [INFO] Customer been created - Shopidy ID - 9982717133114 - BC id=811
+[2026-02-19 15:00:25] [INFO] Customer been created - Shopidy ID - 9982717264186 - BC id=810
+[2026-02-19 15:00:30] [INFO] Customer been created - Shopidy ID - 9982717329722 - BC id=809
+[2026-02-19 15:00:34] [INFO] Customer been created - Shopidy ID - 9982717493562 - BC id=808
+[2026-02-19 15:00:40] [INFO] Customer been created - Shopidy ID - 9982717591866 - BC id=807
+[2026-02-19 15:00:40] [ERROR] Execption error - Shopify API Error (422): {"errors":{"phone":["is invalid"]}} - BC id=806 -- Email: accounts@raceservices.com.au
+[2026-02-19 15:00:47] [INFO] Customer been created - Shopidy ID - 9982717722938 - BC id=805
+[2026-02-19 15:00:51] [INFO] Customer been created - Shopidy ID - 9982717821242 - BC id=804
+[2026-02-19 15:00:58] [INFO] Customer been created - Shopidy ID - 9982718050618 - BC id=803
+[2026-02-19 15:01:04] [INFO] Customer been created - Shopidy ID - 9982718214458 - BC id=802
+[2026-02-19 15:01:08] [INFO] Customer been created - Shopidy ID - 9982718312762 - BC id=801
+[2026-02-19 15:01:13] [INFO] Customer been created - Shopidy ID - 9982718509370 - BC id=800
+[2026-02-19 15:01:17] [INFO] Customer been created - Shopidy ID - 9982718607674 - BC id=799
+[2026-02-19 15:01:21] [INFO] Customer been created - Shopidy ID - 9982718673210 - BC id=798
+[2026-02-19 15:01:26] [INFO] Customer been created - Shopidy ID - 9982718837050 - BC id=797
+[2026-02-19 15:01:30] [INFO] Customer been created - Shopidy ID - 9982718902586 - BC id=796
+[2026-02-19 15:01:35] [INFO] Customer been created - Shopidy ID - 9982718968122 - BC id=795
+[2026-02-19 15:01:41] [INFO] Customer been created - Shopidy ID - 9982719099194 - BC id=794
+[2026-02-19 15:01:46] [INFO] Customer been created - Shopidy ID - 9982719230266 - BC id=793
+[2026-02-19 15:01:52] [INFO] Customer been created - Shopidy ID - 9982719328570 - BC id=792
+[2026-02-19 15:01:56] [INFO] Customer been created - Shopidy ID - 9982719426874 - BC id=791
+[2026-02-19 15:02:08] [INFO] Customer been created - Shopidy ID - 9982719656250 - BC id=790
+[2026-02-19 15:02:12] [INFO] Customer been created - Shopidy ID - 9982719754554 - BC id=789
+[2026-02-19 15:02:17] [INFO] Customer been created - Shopidy ID - 9982719787322 - BC id=788
+[2026-02-19 15:02:21] [INFO] Customer been created - Shopidy ID - 9982719820090 - BC id=787
+[2026-02-19 15:02:25] [INFO] Customer been created - Shopidy ID - 9982720049466 - BC id=786
+[2026-02-19 15:02:29] [INFO] Customer been created - Shopidy ID - 9982720147770 - BC id=785
+[2026-02-19 15:02:33] [INFO] Customer been created - Shopidy ID - 9982720311610 - BC id=784
+[2026-02-19 15:02:40] [INFO] Customer been created - Shopidy ID - 9982720442682 - BC id=783
+[2026-02-19 15:02:44] [INFO] Customer been created - Shopidy ID - 9982720737594 - BC id=782
+[2026-02-19 15:02:49] [INFO] Customer been created - Shopidy ID - 9982720803130 - BC id=781
+[2026-02-19 15:02:53] [ERROR] Execption error - Shopify API Error (422): {"errors":{"address":["has already been taken"]}} - BC id=780 -- Email: acgoens@gmail.com
+[2026-02-19 15:03:00] [INFO] Customer been created - Shopidy ID - 9982721065274 - BC id=779
+[2026-02-19 15:03:04] [INFO] Customer been created - Shopidy ID - 9982721261882 - BC id=778
+[2026-02-19 15:03:11] [ERROR] Execption error - Shopify API Error (422): {"errors":{"address":["has already been taken"]}} - BC id=777 -- Email: rgoodman@cityofwhitefish.gov
+[2026-02-19 15:03:18] [INFO] Customer been created - Shopidy ID - 9982721622330 - BC id=776
+[2026-02-19 15:03:22] [INFO] Customer been created - Shopidy ID - 9982721687866 - BC id=775
+[2026-02-19 15:03:26] [INFO] Customer been created - Shopidy ID - 9982721720634 - BC id=774
+[2026-02-19 15:03:30] [INFO] Customer been created - Shopidy ID - 9982721786170 - BC id=773
+[2026-02-19 15:03:35] [INFO] Customer been created - Shopidy ID - 9982721884474 - BC id=772
+[2026-02-19 15:03:39] [INFO] Customer been created - Shopidy ID - 9982722048314 - BC id=771
+[2026-02-19 15:03:43] [INFO] Customer been created - Shopidy ID - 9982722146618 - BC id=770
+[2026-02-19 15:03:47] [ERROR] Execption error - Shopify API Error (422): {"errors":{"address":["has already been taken"]}} - BC id=769 -- Email: sma.environmental@gmail.com
+[2026-02-19 15:03:52] [INFO] Customer been created - Shopidy ID - 9982722343226 - BC id=768
+[2026-02-19 15:03:56] [ERROR] Execption error - Shopify API Error (422): {"errors":{"address":["has already been taken"]}} - BC id=767 -- Email: justin@ne-solutions.net
+[2026-02-19 15:04:03] [INFO] Customer been created - Shopidy ID - 9982722507066 - BC id=766
+[2026-02-19 15:04:10] [INFO] Customer been created - Shopidy ID - 9982722605370 - BC id=765
+[2026-02-19 15:04:14] [INFO] Customer been created - Shopidy ID - 9982722703674 - BC id=764
+[2026-02-19 15:04:18] [INFO] Customer been created - Shopidy ID - 9982722834746 - BC id=763
+[2026-02-19 15:04:27] [INFO] Customer been created - Shopidy ID - 9982722933050 - BC id=762
+[2026-02-19 15:04:32] [INFO] Customer been created - Shopidy ID - 9982722998586 - BC id=761
+[2026-02-19 15:04:38] [INFO] Customer been created - Shopidy ID - 9982723064122 - BC id=760
+[2026-02-19 15:04:45] [INFO] Customer been created - Shopidy ID - 9982723326266 - BC id=759
+[2026-02-19 15:04:49] [INFO] Customer been created - Shopidy ID - 9982723457338 - BC id=758
+[2026-02-19 15:04:53] [INFO] Customer been created - Shopidy ID - 9982723555642 - BC id=757
+[2026-02-19 15:04:57] [INFO] Customer been created - Shopidy ID - 9982723621178 - BC id=756
+[2026-02-19 15:05:02] [INFO] Customer been created - Shopidy ID - 9982723686714 - BC id=755
+[2026-02-19 15:05:08] [INFO] Customer been created - Shopidy ID - 9982723752250 - BC id=754
+[2026-02-19 15:05:12] [INFO] Customer been created - Shopidy ID - 9982723948858 - BC id=753
+[2026-02-19 15:05:17] [INFO] Customer been created - Shopidy ID - 9982724211002 - BC id=752
+[2026-02-19 15:05:17] [ERROR] Execption error - Shopify API Error (422): {"errors":{"phone":["is invalid"]}} - BC id=751 -- Email: reception@gstec.com.au
+[2026-02-19 15:05:21] [ERROR] Execption error - Shopify API Error (422): {"errors":{"address":["has already been taken"]}} - BC id=750 -- Email: craig.condon@maine.edu
+[2026-02-19 15:05:28] [INFO] Customer been created - Shopidy ID - 9982724407610 - BC id=749
+[2026-02-19 15:05:32] [INFO] Customer been created - Shopidy ID - 9982724440378 - BC id=748
+[2026-02-19 15:05:37] [INFO] Customer been created - Shopidy ID - 9982724505914 - BC id=747
+[2026-02-19 15:05:43] [INFO] Customer been created - Shopidy ID - 9982724669754 - BC id=746
+[2026-02-19 15:05:47] [INFO] Customer been created - Shopidy ID - 9982724768058 - BC id=745
+[2026-02-19 15:05:54] [INFO] Customer been created - Shopidy ID - 9982724866362 - BC id=744
+[2026-02-19 15:05:58] [INFO] Customer been created - Shopidy ID - 9982724931898 - BC id=743
+[2026-02-19 15:06:03] [ERROR] Execption error - Shopify API Error (422): {"errors":{"address":["has already been taken"]}} - BC id=742 -- Email: gpettorossi@clearford.com
+[2026-02-19 15:06:07] [INFO] Customer been created - Shopidy ID - 9982725259578 - BC id=741
+[2026-02-19 15:06:12] [INFO] Customer been created - Shopidy ID - 9982725390650 - BC id=740
+[2026-02-19 15:06:16] [INFO] Customer been created - Shopidy ID - 9982725587258 - BC id=739
+[2026-02-19 15:06:23] [INFO] Customer been created - Shopidy ID - 9982725652794 - BC id=738
+[2026-02-19 15:06:27] [INFO] Customer been created - Shopidy ID - 9982725783866 - BC id=737
+[2026-02-19 15:06:31] [INFO] Customer been created - Shopidy ID - 9982725980474 - BC id=736
+[2026-02-19 15:06:36] [ERROR] Execption error - Shopify API Error (422): {"errors":{"address":["has already been taken"]}} - BC id=735 -- Email: danielsfarm2017@gmail.com
+[2026-02-19 15:06:40] [INFO] Customer been created - Shopidy ID - 9982726209850 - BC id=734
+[2026-02-19 15:06:45] [INFO] Customer been created - Shopidy ID - 9982726242618 - BC id=733
+[2026-02-19 15:06:51] [INFO] Customer been created - Shopidy ID - 9982726340922 - BC id=732
+[2026-02-19 15:06:55] [INFO] Customer been created - Shopidy ID - 9982726471994 - BC id=731
+[2026-02-19 15:06:59] [INFO] Customer been created - Shopidy ID - 9982726537530 - BC id=730
+[2026-02-19 15:07:00] [ERROR] Execption error - Shopify API Error (422): {"errors":{"phone":["is invalid"]}} - BC id=729 -- Email: sgonzalez.4321@gmail.com
+[2026-02-19 15:07:05] [INFO] Customer been created - Shopidy ID - 9982726603066 - BC id=728
+[2026-02-19 15:07:11] [INFO] Customer been created - Shopidy ID - 9982726734138 - BC id=727
+[2026-02-19 15:07:15] [INFO] Customer been created - Shopidy ID - 9982726897978 - BC id=726
+[2026-02-19 15:07:22] [INFO] Customer been created - Shopidy ID - 9982727061818 - BC id=725
+[2026-02-19 15:07:26] [INFO] Customer been created - Shopidy ID - 9982727127354 - BC id=724
+[2026-02-19 15:07:33] [INFO] Customer been created - Shopidy ID - 9982727225658 - BC id=723
+[2026-02-19 15:07:33] [ERROR] Execption error - Shopify API Error (422): {"errors":{"phone":["is invalid"]}} - BC id=722 -- Email: Athira.Gopakumar@cdd.com.au
+[2026-02-19 15:07:37] [INFO] Customer been created - Shopidy ID - 9982727323962 - BC id=721
+[2026-02-19 15:07:44] [INFO] Customer been created - Shopidy ID - 9982727389498 - BC id=720
+[2026-02-19 15:07:45] [ERROR] Execption error - Shopify API Error (422): {"errors":{"phone":["is invalid"]}} - BC id=719 -- Email: mrusso@onemagnify.com
+[2026-02-19 15:07:49] [INFO] Customer been created - Shopidy ID - 9982727455034 - BC id=718
+[2026-02-19 15:07:53] [INFO] Customer been created - Shopidy ID - 9982727487802 - BC id=717
+[2026-02-19 15:07:57] [INFO] Customer been created - Shopidy ID - 9982727651642 - BC id=716
+[2026-02-19 15:08:02] [ERROR] Execption error - Shopify API Error (422): {"errors":{"address":["has already been taken"]}} - BC id=715 -- Email: DrBobHill007@gmail.com
+[2026-02-19 15:08:07] [INFO] Customer been created - Shopidy ID - 9982728110394 - BC id=714
+[2026-02-19 15:08:11] [INFO] Customer been created - Shopidy ID - 9982728274234 - BC id=713
+[2026-02-19 15:08:15] [INFO] Customer been created - Shopidy ID - 9982728438074 - BC id=712
+[2026-02-19 15:08:19] [INFO] Customer been created - Shopidy ID - 9982728536378 - BC id=711
+[2026-02-19 15:08:28] [INFO] Customer been created - Shopidy ID - 9982728667450 - BC id=710
+[2026-02-19 15:08:35] [INFO] Customer been created - Shopidy ID - 9982729290042 - BC id=709
+[2026-02-19 15:08:39] [INFO] Customer been created - Shopidy ID - 9982729617722 - BC id=708
+[2026-02-19 15:08:46] [INFO] Customer been created - Shopidy ID - 9982729814330 - BC id=707
+[2026-02-19 15:08:53] [INFO] Customer been created - Shopidy ID - 9982730076474 - BC id=706
+[2026-02-19 15:08:53] [ERROR] Execption error - Shopify API Error (422): {"errors":{"phone":["is invalid"]}} - BC id=705 -- Email: hjxahs@gmail.com
+[2026-02-19 15:08:57] [INFO] Customer been created - Shopidy ID - 9982730240314 - BC id=704
+[2026-02-19 15:09:02] [INFO] Customer been created - Shopidy ID - 9982730305850 - BC id=703
+[2026-02-19 15:09:08] [INFO] Customer been created - Shopidy ID - 9982730535226 - BC id=702
+[2026-02-19 15:09:15] [ERROR] Execption error - Shopify API Error (422): {"errors":{"address":["has already been taken"]}} - BC id=701 -- Email: nysmerc@health.ny.gov
+[2026-02-19 15:09:20] [INFO] Customer been created - Shopidy ID - 9982730797370 - BC id=700
+[2026-02-19 15:09:26] [INFO] Customer been created - Shopidy ID - 9982730928442 - BC id=699
+[2026-02-19 15:09:33] [INFO] Customer been created - Shopidy ID - 9982731059514 - BC id=698
+[2026-02-19 15:09:40] [INFO] Customer been created - Shopidy ID - 9982731321658 - BC id=697
+[2026-02-19 15:09:44] [INFO] Customer been created - Shopidy ID - 9982731682106 - BC id=696
+[2026-02-19 15:09:48] [INFO] Customer been created - Shopidy ID - 9982731878714 - BC id=695
+[2026-02-19 15:09:55] [INFO] Customer been created - Shopidy ID - 9982731977018 - BC id=694
+[2026-02-19 15:09:59] [INFO] Customer been created - Shopidy ID - 9982732042554 - BC id=693
+[2026-02-19 15:10:05] [INFO] Customer been created - Shopidy ID - 9982732173626 - BC id=692
+[2026-02-19 15:10:10] [INFO] Customer been created - Shopidy ID - 9982732403002 - BC id=691
+[2026-02-19 15:10:14] [INFO] Customer been created - Shopidy ID - 9982732501306 - BC id=690
+[2026-02-19 15:10:21] [INFO] Customer been created - Shopidy ID - 9982732566842 - BC id=689
+[2026-02-19 15:10:27] [INFO] Customer been created - Shopidy ID - 9982732763450 - BC id=688
+[2026-02-19 15:10:32] [INFO] Customer been created - Shopidy ID - 9982732960058 - BC id=687
+[2026-02-19 15:10:38] [INFO] Customer been created - Shopidy ID - 9982733058362 - BC id=686
+[2026-02-19 15:10:42] [INFO] Customer been created - Shopidy ID - 9982733287738 - BC id=685
+[2026-02-19 15:10:47] [INFO] Customer been created - Shopidy ID - 9982733615418 - BC id=684
+[2026-02-19 15:10:51] [INFO] Customer been created - Shopidy ID - 9982733746490 - BC id=683
+[2026-02-19 15:10:58] [INFO] Customer been created - Shopidy ID - 9982733844794 - BC id=681
+[2026-02-19 15:11:04] [INFO] Customer been created - Shopidy ID - 9982734008634 - BC id=680
+[2026-02-19 15:11:09] [INFO] Customer been created - Shopidy ID - 9982734238010 - BC id=679
+[2026-02-19 15:11:13] [INFO] Customer been created - Shopidy ID - 9982734369082 - BC id=678
+[2026-02-19 15:11:20] [INFO] Customer been created - Shopidy ID - 9982734532922 - BC id=677
+[2026-02-19 15:11:24] [INFO] Customer been created - Shopidy ID - 9982734631226 - BC id=676
+[2026-02-19 15:11:30] [INFO] Customer been created - Shopidy ID - 9982734729530 - BC id=675
+[2026-02-19 15:11:35] [INFO] Customer been created - Shopidy ID - 9982734893370 - BC id=674
+[2026-02-19 15:11:41] [INFO] Customer been created - Shopidy ID - 9982735057210 - BC id=673
+[2026-02-19 15:11:45] [INFO] Customer been created - Shopidy ID - 9982735221050 - BC id=672
+[2026-02-19 15:11:52] [INFO] Customer been created - Shopidy ID - 9982735450426 - BC id=671
+[2026-02-19 15:11:59] [INFO] Customer been created - Shopidy ID - 9982735614266 - BC id=670
+[2026-02-19 15:12:06] [INFO] Customer been created - Shopidy ID - 9982735745338 - BC id=669
+[2026-02-19 15:12:10] [INFO] Customer been created - Shopidy ID - 9982735974714 - BC id=668
+[2026-02-19 15:12:16] [INFO] Customer been created - Shopidy ID - 9982736073018 - BC id=667
+[2026-02-19 15:12:20] [INFO] Customer been created - Shopidy ID - 9982736204090 - BC id=666
+[2026-02-19 15:12:25] [INFO] Customer been created - Shopidy ID - 9982736400698 - BC id=665
+[2026-02-19 15:12:31] [INFO] Customer been created - Shopidy ID - 9982736695610 - BC id=663
+[2026-02-19 15:12:36] [INFO] Customer been created - Shopidy ID - 9982736859450 - BC id=662
+[2026-02-19 15:12:40] [ERROR] Execption error - Shopify API Error (422): {"errors":{"address":["has already been taken"]}} - BC id=661 -- Email: joel@eastgulllake.us
+[2026-02-19 15:12:44] [INFO] Customer been created - Shopidy ID - 9982737383738 - BC id=660
+[2026-02-19 15:12:51] [ERROR] Execption error - Shopify API Error (422): {"errors":{"address":["has already been taken"]}} - BC id=659 -- Email: patrick.tuohy@veolia.com
+[2026-02-19 15:12:55] [INFO] Customer been created - Shopidy ID - 9982738137402 - BC id=658
+[2026-02-19 15:13:00] [INFO] Customer been created - Shopidy ID - 9982738301242 - BC id=657
+[2026-02-19 15:13:04] [INFO] Customer been created - Shopidy ID - 9982738497850 - BC id=656
+[2026-02-19 15:13:08] [INFO] Customer been created - Shopidy ID - 9982738628922 - BC id=655
+[2026-02-19 15:13:15] [INFO] Customer been created - Shopidy ID - 9982738792762 - BC id=654
+[2026-02-19 15:13:19] [INFO] Customer been created - Shopidy ID - 9982739054906 - BC id=653
+[2026-02-19 15:13:23] [INFO] Customer been created - Shopidy ID - 9982739120442 - BC id=652
+[2026-02-19 15:13:27] [INFO] Customer been created - Shopidy ID - 9982739317050 - BC id=651
+[2026-02-19 15:13:31] [INFO] Customer been created - Shopidy ID - 9982739415354 - BC id=650
+[2026-02-19 15:13:36] [INFO] Customer been created - Shopidy ID - 9982739611962 - BC id=649
+[2026-02-19 15:13:40] [INFO] Customer been created - Shopidy ID - 9982739677498 - BC id=648
+[2026-02-19 15:13:47] [INFO] Customer been created - Shopidy ID - 9982739710266 - BC id=647
+[2026-02-19 15:13:51] [INFO] Customer been created - Shopidy ID - 9982739939642 - BC id=646
+[2026-02-19 15:13:55] [INFO] Customer been created - Shopidy ID - 9982740070714 - BC id=645
+[2026-02-19 15:14:02] [INFO] Customer been created - Shopidy ID - 9982740201786 - BC id=644
+[2026-02-19 15:14:06] [INFO] Customer been created - Shopidy ID - 9982740332858 - BC id=643
+[2026-02-19 15:14:10] [INFO] Customer been created - Shopidy ID - 9982740398394 - BC id=642
+[2026-02-19 15:14:14] [INFO] Customer been created - Shopidy ID - 9982740660538 - BC id=641
+[2026-02-19 15:14:21] [INFO] Customer been created - Shopidy ID - 9982740758842 - BC id=640
+[2026-02-19 15:14:25] [INFO] Customer been created - Shopidy ID - 9982740889914 - BC id=639
+[2026-02-19 15:14:32] [INFO] Customer been created - Shopidy ID - 9982741020986 - BC id=638
+[2026-02-19 15:14:36] [INFO] Customer been created - Shopidy ID - 9982741086522 - BC id=637
+[2026-02-19 15:14:40] [INFO] Customer been created - Shopidy ID - 9982741381434 - BC id=636
+[2026-02-19 15:14:44] [INFO] Customer been created - Shopidy ID - 9982741578042 - BC id=635
+[2026-02-19 15:14:48] [INFO] Customer been created - Shopidy ID - 9982741741882 - BC id=634
+[2026-02-19 15:14:52] [INFO] Customer been created - Shopidy ID - 9982741872954 - BC id=633
+[2026-02-19 15:14:57] [INFO] Customer been created - Shopidy ID - 9982741971258 - BC id=632
+[2026-02-19 15:15:03] [INFO] Customer been created - Shopidy ID - 9982742135098 - BC id=631
+[2026-02-19 15:15:10] [INFO] Customer been created - Shopidy ID - 9982742364474 - BC id=630
+[2026-02-19 15:15:17] [INFO] Customer been created - Shopidy ID - 9982742659386 - BC id=629
+[2026-02-19 15:15:23] [INFO] Customer been created - Shopidy ID - 9982742724922 - BC id=628
+[2026-02-19 15:15:28] [INFO] Customer been created - Shopidy ID - 9982743052602 - BC id=627
+[2026-02-19 15:15:32] [INFO] Customer been created - Shopidy ID - 9982743183674 - BC id=626
+[2026-02-19 15:15:36] [INFO] Customer been created - Shopidy ID - 9982743347514 - BC id=625
+[2026-02-19 15:15:43] [INFO] Customer been created - Shopidy ID - 9982743544122 - BC id=624
+[2026-02-19 15:15:50] [INFO] Customer been created - Shopidy ID - 9982743675194 - BC id=623
+[2026-02-19 15:15:56] [INFO] Customer been created - Shopidy ID - 9982743806266 - BC id=622
+[2026-02-19 15:16:06] [ERROR] Execption error - Shopify API Error (422): {"errors":{"address":["has already been taken"]}} - BC id=621 -- Email: csammcw@gmail.com
+[2026-02-19 15:16:10] [INFO] Customer been created - Shopidy ID - 9982744265018 - BC id=620
+[2026-02-19 15:16:17] [INFO] Customer been created - Shopidy ID - 9982744330554 - BC id=619
+[2026-02-19 15:16:21] [INFO] Customer been created - Shopidy ID - 9982744461626 - BC id=618
+[2026-02-19 15:16:25] [INFO] Customer been created - Shopidy ID - 9982744527162 - BC id=617
+[2026-02-19 15:16:30] [INFO] Customer been created - Shopidy ID - 9982744592698 - BC id=616
+[2026-02-19 15:16:37] [INFO] Customer been created - Shopidy ID - 9982744691002 - BC id=615
+[2026-02-19 15:16:41] [INFO] Customer been created - Shopidy ID - 9982744953146 - BC id=614
+[2026-02-19 15:16:48] [INFO] Customer been created - Shopidy ID - 9982745215290 - BC id=613
+[2026-02-19 15:16:55] [INFO] Customer been created - Shopidy ID - 9982745411898 - BC id=612
+[2026-02-19 15:17:01] [INFO] Customer been created - Shopidy ID - 9982745674042 - BC id=611
+[2026-02-19 15:17:08] [INFO] Customer been created - Shopidy ID - 9982745870650 - BC id=610
+[2026-02-19 15:17:12] [INFO] Customer been created - Shopidy ID - 9982746034490 - BC id=609
+[2026-02-19 15:17:17] [INFO] Customer been created - Shopidy ID - 9982746132794 - BC id=608
+[2026-02-19 15:17:21] [INFO] Customer been created - Shopidy ID - 9982746231098 - BC id=607
+[2026-02-19 15:17:25] [INFO] Customer been created - Shopidy ID - 9982746296634 - BC id=606
+[2026-02-19 15:17:31] [INFO] Customer been created - Shopidy ID - 9982746427706 - BC id=605
+[2026-02-19 15:17:36] [INFO] Customer been created - Shopidy ID - 9982746624314 - BC id=604
+[2026-02-19 15:17:37] [ERROR] Execption error - Shopify API Error (422): {"errors":{"phone":["has already been taken"]}} - BC id=603 -- Email: arivera@utomation-bt.com
+[2026-02-19 15:17:43] [INFO] Customer been created - Shopidy ID - 9982746886458 - BC id=602
+[2026-02-19 15:17:47] [INFO] Customer been created - Shopidy ID - 9982747050298 - BC id=601
+[2026-02-19 15:17:54] [INFO] Customer been created - Shopidy ID - 9982747181370 - BC id=600
+[2026-02-19 15:17:59] [INFO] Customer been created - Shopidy ID - 9982747246906 - BC id=599
+[2026-02-19 15:18:05] [INFO] Customer been created - Shopidy ID - 9982747410746 - BC id=598
+[2026-02-19 15:18:12] [INFO] Customer been created - Shopidy ID - 9982747738426 - BC id=597
+[2026-02-19 15:18:16] [INFO] Customer been created - Shopidy ID - 9982747869498 - BC id=596
+[2026-02-19 15:18:20] [INFO] Customer been created - Shopidy ID - 9982747902266 - BC id=595
+[2026-02-19 15:18:24] [INFO] Customer been created - Shopidy ID - 9982748000570 - BC id=594
+[2026-02-19 15:18:28] [INFO] Customer been created - Shopidy ID - 9982748033338 - BC id=593
+[2026-02-19 15:18:35] [INFO] Customer been created - Shopidy ID - 9982748131642 - BC id=591
+[2026-02-19 15:18:39] [INFO] Customer been created - Shopidy ID - 9982748393786 - BC id=590
+[2026-02-19 15:18:43] [INFO] Customer been created - Shopidy ID - 9982748426554 - BC id=589
+[2026-02-19 15:18:47] [INFO] Customer been created - Shopidy ID - 9982748492090 - BC id=588
+[2026-02-19 15:18:54] [INFO] Customer been created - Shopidy ID - 9982748590394 - BC id=587
+[2026-02-19 15:18:59] [ERROR] Execption error - Shopify API Error (422): {"errors":{"address":["has already been taken"]}} - BC id=586 -- Email: abuchanan@morgantonnc.gov
+[2026-02-19 15:19:03] [INFO] Customer been created - Shopidy ID - 9982749016378 - BC id=585
+[2026-02-19 15:19:07] [ERROR] Execption error - Shopify API Error (422): {"errors":{"address":["has already been taken"]}} - BC id=584 -- Email: amichaux@sopris.net
+[2026-02-19 15:19:14] [INFO] Customer been created - Shopidy ID - 9982749409594 - BC id=583
+[2026-02-19 15:19:21] [INFO] Customer been created - Shopidy ID - 9982749507898 - BC id=582
+[2026-02-19 15:19:27] [INFO] Customer been created - Shopidy ID - 9982749606202 - BC id=581
+[2026-02-19 15:19:34] [INFO] Customer been created - Shopidy ID - 9982749704506 - BC id=580
+[2026-02-19 15:19:38] [INFO] Customer been created - Shopidy ID - 9982749901114 - BC id=579
+[2026-02-19 15:19:42] [INFO] Customer been created - Shopidy ID - 9982750032186 - BC id=578
+[2026-02-19 15:19:47] [INFO] Customer been created - Shopidy ID - 9982750130490 - BC id=577
+[2026-02-19 15:19:56] [INFO] Customer been created - Shopidy ID - 9982750261562 - BC id=576
+[2026-02-19 15:20:02] [INFO] Customer been created - Shopidy ID - 9982750392634 - BC id=575
+[2026-02-19 15:20:07] [ERROR] Execption error - Shopify API Error (422): {"errors":{"address":["has already been taken"]}} - BC id=574 -- Email: Dakrow801@gmail.com
+[2026-02-19 15:20:11] [INFO] Customer been created - Shopidy ID - 9982750654778 - BC id=573
+[2026-02-19 15:20:15] [INFO] Customer been created - Shopidy ID - 9982750753082 - BC id=572
+[2026-02-19 15:20:20] [INFO] Customer been created - Shopidy ID - 9982750851386 - BC id=571
+[2026-02-19 15:20:24] [INFO] Customer been created - Shopidy ID - 9982750982458 - BC id=570
+[2026-02-19 15:20:30] [INFO] Customer been created - Shopidy ID - 9982751113530 - BC id=569
+[2026-02-19 15:20:37] [INFO] Customer been created - Shopidy ID - 9982751277370 - BC id=568
+[2026-02-19 15:20:41] [INFO] Customer been created - Shopidy ID - 9982751473978 - BC id=567
+[2026-02-19 15:20:46] [INFO] Customer been created - Shopidy ID - 9982751605050 - BC id=566
+[2026-02-19 15:20:50] [INFO] Customer been created - Shopidy ID - 9982751768890 - BC id=565
+[2026-02-19 15:20:55] [ERROR] Execption error - Shopify API Error (422): {"errors":{"address":["has already been taken"]}} - BC id=564 -- Email: cbohlin@Ventasreit.com
+[2026-02-19 15:21:01] [INFO] Customer been created - Shopidy ID - 9982752096570 - BC id=562
+[2026-02-19 15:21:08] [INFO] Customer been created - Shopidy ID - 9982752227642 - BC id=561
+[2026-02-19 15:21:12] [INFO] Customer been created - Shopidy ID - 9982752588090 - BC id=560
+[2026-02-19 15:21:16] [INFO] Customer been created - Shopidy ID - 9982752653626 - BC id=559
+[2026-02-19 15:21:21] [INFO] Customer been created - Shopidy ID - 9982752817466 - BC id=558
+[2026-02-19 15:21:27] [INFO] Customer been created - Shopidy ID - 9982752981306 - BC id=557
+[2026-02-19 15:21:31] [INFO] Customer been created - Shopidy ID - 9982753014074 - BC id=556
+[2026-02-19 15:21:34] [ERROR] Execption error - Shopify API Error (422): {"errors":{"country":["is invalid"]}} - BC id=555 -- Email: kelvin.bailey@veolia.com
+[2026-02-19 15:21:38] [INFO] Customer been created - Shopidy ID - 9982753210682 - BC id=554
+[2026-02-19 15:21:44] [INFO] Customer been created - Shopidy ID - 9982753341754 - BC id=553
+[2026-02-19 15:21:45] [ERROR] Execption error - Shopify API Error (422): {"errors":{"phone":["has already been taken"]}} - BC id=552 -- Email: michael.clifford@entercom.com
+[2026-02-19 15:21:49] [INFO] Customer been created - Shopidy ID - 9982753571130 - BC id=551
+[2026-02-19 15:21:56] [INFO] Customer been created - Shopidy ID - 9982753702202 - BC id=550
+[2026-02-19 15:22:00] [INFO] Customer been created - Shopidy ID - 9982753800506 - BC id=549
+[2026-02-19 15:22:06] [INFO] Customer been created - Shopidy ID - 9982753898810 - BC id=548
+[2026-02-19 15:22:13] [INFO] Customer been created - Shopidy ID - 9982754160954 - BC id=547
+[2026-02-19 15:22:20] [INFO] Customer been created - Shopidy ID - 9982754357562 - BC id=546
+[2026-02-19 15:22:24] [INFO] Customer been created - Shopidy ID - 9982754521402 - BC id=545
+[2026-02-19 15:22:29] [ERROR] Execption error - Shopify API Error (422): {"errors":{"address":["has already been taken"]}} - BC id=544 -- Email: hlloucks@waynecountyny.gov
+[2026-02-19 15:22:35] [INFO] Customer been created - Shopidy ID - 9982754849082 - BC id=543
+[2026-02-19 15:22:42] [INFO] Customer been created - Shopidy ID - 9982755242298 - BC id=542
+[2026-02-19 15:22:46] [INFO] Customer been created - Shopidy ID - 9982755438906 - BC id=541
+[2026-02-19 15:22:50] [INFO] Customer been created - Shopidy ID - 9982755537210 - BC id=540
+[2026-02-19 15:22:57] [INFO] Customer been created - Shopidy ID - 9982755635514 - BC id=539
+[2026-02-19 15:23:01] [INFO] Customer been created - Shopidy ID - 9982755930426 - BC id=538
+[2026-02-19 15:23:08] [INFO] Customer been created - Shopidy ID - 9982756028730 - BC id=537
+[2026-02-19 15:23:12] [INFO] Customer been created - Shopidy ID - 9982756192570 - BC id=536
+[2026-02-19 15:23:19] [INFO] Customer been created - Shopidy ID - 9982756290874 - BC id=535
+[2026-02-19 15:23:26] [INFO] Customer been created - Shopidy ID - 9982756487482 - BC id=534
+[2026-02-19 15:23:30] [INFO] Customer been created - Shopidy ID - 9982756585786 - BC id=533
+[2026-02-19 15:23:34] [INFO] Customer been created - Shopidy ID - 9982756684090 - BC id=532
+[2026-02-19 15:23:38] [INFO] Customer been created - Shopidy ID - 9982756847930 - BC id=531
+[2026-02-19 15:23:45] [INFO] Customer been created - Shopidy ID - 9982757044538 - BC id=530
+[2026-02-19 15:23:51] [INFO] Customer been created - Shopidy ID - 9982757241146 - BC id=529
+[2026-02-19 15:23:56] [INFO] Customer been created - Shopidy ID - 9982757372218 - BC id=528
+[2026-02-19 15:24:00] [ERROR] Execption error - Shopify API Error (422): {"errors":{"address":["has already been taken"]}} - BC id=527 -- Email: jemerick@fs-elliott.com
+[2026-02-19 15:24:04] [INFO] Customer been created - Shopidy ID - 9982757634362 - BC id=526
+[2026-02-19 15:24:11] [INFO] Customer been created - Shopidy ID - 9982757863738 - BC id=525
+[2026-02-19 15:24:15] [INFO] Customer been created - Shopidy ID - 9982758027578 - BC id=524
+[2026-02-19 15:24:19] [INFO] Customer been created - Shopidy ID - 9982758093114 - BC id=523
+[2026-02-19 15:24:26] [INFO] Customer been created - Shopidy ID - 9982758158650 - BC id=522
+[2026-02-19 15:24:30] [INFO] Customer been created - Shopidy ID - 9982758322490 - BC id=521
+[2026-02-19 15:24:35] [ERROR] Execption error - Shopify API Error (422): {"errors":{"address":["has already been taken"]}} - BC id=520 -- Email: paustin@muchlaw.com
+[2026-02-19 15:24:39] [INFO] Customer been created - Shopidy ID - 9982758650170 - BC id=519
+[2026-02-19 15:24:43] [INFO] Customer been created - Shopidy ID - 9982758715706 - BC id=518
+[2026-02-19 15:24:47] [INFO] Customer been created - Shopidy ID - 9982758846778 - BC id=517
+[2026-02-19 15:24:54] [INFO] Customer been created - Shopidy ID - 9982759010618 - BC id=516
+[2026-02-19 15:25:01] [INFO] Customer been created - Shopidy ID - 9982759141690 - BC id=515
+[2026-02-19 15:25:07] [INFO] Customer been created - Shopidy ID - 9982759305530 - BC id=514
+[2026-02-19 15:25:12] [INFO] Customer been created - Shopidy ID - 9982759469370 - BC id=513
+[2026-02-19 15:25:18] [INFO] Customer been created - Shopidy ID - 9982759665978 - BC id=512
+[2026-02-19 15:25:22] [INFO] Customer been created - Shopidy ID - 9982759797050 - BC id=511
+[2026-02-19 15:25:29] [INFO] Customer been created - Shopidy ID - 9982759928122 - BC id=510
+[2026-02-19 15:25:33] [INFO] Customer been created - Shopidy ID - 9982759993658 - BC id=509
+[2026-02-19 15:25:40] [INFO] Customer been created - Shopidy ID - 9982760157498 - BC id=508
+[2026-02-19 15:25:40] [ERROR] Execption error - Shopify API Error (422): {"errors":{"phone":["is invalid"]}} - BC id=507 -- Email: dylan@ptscontrols.com
+[2026-02-19 15:25:44] [INFO] Customer been created - Shopidy ID - 9982760255802 - BC id=506
+[2026-02-19 15:25:49] [INFO] Customer been created - Shopidy ID - 9982760386874 - BC id=505
+[2026-02-19 15:25:56] [INFO] Customer been created - Shopidy ID - 9982760616250 - BC id=504
+[2026-02-19 15:26:00] [INFO] Customer been created - Shopidy ID - 9982760812858 - BC id=503
+[2026-02-19 15:26:04] [INFO] Customer been created - Shopidy ID - 9982760943930 - BC id=502
+[2026-02-19 15:26:08] [INFO] Customer been created - Shopidy ID - 9982761107770 - BC id=501
+[2026-02-19 15:26:13] [INFO] Customer been created - Shopidy ID - 9982761304378 - BC id=500
+[2026-02-19 15:26:17] [INFO] Customer been created - Shopidy ID - 9982761402682 - BC id=499
+[2026-02-19 15:26:21] [INFO] Customer been created - Shopidy ID - 9982761533754 - BC id=498
+[2026-02-19 15:26:25] [INFO] Customer been created - Shopidy ID - 9982761632058 - BC id=497
+[2026-02-19 15:26:29] [INFO] Customer been created - Shopidy ID - 9982761730362 - BC id=496
+[2026-02-19 15:26:36] [INFO] Customer been created - Shopidy ID - 9982761795898 - BC id=495
+[2026-02-19 15:26:37] [ERROR] Execption error - Shopify API Error (422): {"errors":{"phone":["has already been taken"]}} - BC id=494 -- Email: tschatschneider@gmail.com
+[2026-02-19 15:26:41] [INFO] Customer been created - Shopidy ID - 9982762090810 - BC id=493
+[2026-02-19 15:26:45] [INFO] Customer been created - Shopidy ID - 9982762123578 - BC id=492
+[2026-02-19 15:26:51] [INFO] Customer been created - Shopidy ID - 9982762221882 - BC id=491
+[2026-02-19 15:26:56] [INFO] Customer been created - Shopidy ID - 9982762287418 - BC id=490
+[2026-02-19 15:27:02] [INFO] Customer been created - Shopidy ID - 9982762484026 - BC id=489
+[2026-02-19 15:27:06] [INFO] Customer been created - Shopidy ID - 9982762549562 - BC id=488
+[2026-02-19 15:27:13] [INFO] Customer been created - Shopidy ID - 9982762811706 - BC id=487
+[2026-02-19 15:27:20] [INFO] Customer been created - Shopidy ID - 9982762877242 - BC id=486
+[2026-02-19 15:27:26] [INFO] Customer been created - Shopidy ID - 9982763008314 - BC id=485
+[2026-02-19 15:27:30] [INFO] Customer been created - Shopidy ID - 9982763139386 - BC id=484
+[2026-02-19 15:27:35] [INFO] Customer been created - Shopidy ID - 9982763204922 - BC id=483
+[2026-02-19 15:27:39] [INFO] Customer been created - Shopidy ID - 9982763270458 - BC id=482
+[2026-02-19 15:27:43] [INFO] Customer been created - Shopidy ID - 9982763434298 - BC id=481
+[2026-02-19 15:27:47] [INFO] Customer been created - Shopidy ID - 9982763499834 - BC id=480
+[2026-02-19 15:27:51] [INFO] Customer been created - Shopidy ID - 9982763663674 - BC id=479
+[2026-02-19 15:27:52] [ERROR] Execption error - Shopify API Error (422): {"errors":{"phone":["is invalid"]}} - BC id=478 -- Email: accpay@luvaduck.com.au
+[2026-02-19 15:27:52] [ERROR] Execption error - Shopify API Error (422): {"errors":{"phone":["is invalid"]}} - BC id=477 -- Email: chrisa@luvaduck.com.au
+[2026-02-19 15:27:56] [INFO] Customer been created - Shopidy ID - 9982763729210 - BC id=476
+[2026-02-19 15:28:01] [INFO] Customer been created - Shopidy ID - 9982763827514 - BC id=475
+[2026-02-19 15:28:05] [INFO] Customer been created - Shopidy ID - 9982764056890 - BC id=474
+[2026-02-19 15:28:10] [ERROR] Execption error - Shopify API Error (422): {"errors":{"address":["has already been taken"]}} - BC id=473 -- Email: daniel.clark@ergon.com
+[2026-02-19 15:28:16] [INFO] Customer been created - Shopidy ID - 9982764450106 - BC id=472
+[2026-02-19 15:28:21] [INFO] Customer been created - Shopidy ID - 9982764646714 - BC id=471
+[2026-02-19 15:28:25] [INFO] Customer been created - Shopidy ID - 9982764712250 - BC id=470
+[2026-02-19 15:28:29] [INFO] Customer been created - Shopidy ID - 9982764810554 - BC id=469
+[2026-02-19 15:28:33] [INFO] Customer been created - Shopidy ID - 9982764941626 - BC id=468
+[2026-02-19 15:28:37] [INFO] Customer been created - Shopidy ID - 9982765138234 - BC id=467
+[2026-02-19 15:28:42] [INFO] Customer been created - Shopidy ID - 9982765302074 - BC id=466
+[2026-02-19 15:28:48] [INFO] Customer been created - Shopidy ID - 9982765433146 - BC id=465
+[2026-02-19 15:28:52] [INFO] Customer been created - Shopidy ID - 9982765564218 - BC id=464
+[2026-02-19 15:28:57] [INFO] Customer been created - Shopidy ID - 9982765760826 - BC id=463
+[2026-02-19 15:28:57] [ERROR] Execption error - Shopify API Error (422): {"errors":{"phone":["is invalid"]}} - BC id=462 -- Email: bcvvbcfhc@gmail.com
+[2026-02-19 15:29:01] [INFO] Customer been created - Shopidy ID - 9982765957434 - BC id=461
+[2026-02-19 15:29:05] [INFO] Customer been created - Shopidy ID - 9982765990202 - BC id=460
+[2026-02-19 15:29:09] [INFO] Customer been created - Shopidy ID - 9982766252346 - BC id=459
+[2026-02-19 15:29:14] [INFO] Customer been created - Shopidy ID - 9982766317882 - BC id=458
+[2026-02-19 15:29:20] [INFO] Customer been created - Shopidy ID - 9982766383418 - BC id=457
+[2026-02-19 15:29:27] [INFO] Customer been created - Shopidy ID - 9982766612794 - BC id=456
+[2026-02-19 15:29:34] [INFO] Customer been created - Shopidy ID - 9982767104314 - BC id=455
+[2026-02-19 15:29:38] [INFO] Customer been created - Shopidy ID - 9982767333690 - BC id=454
+[2026-02-19 15:29:42] [INFO] Customer been created - Shopidy ID - 9982767563066 - BC id=453
+[2026-02-19 15:29:46] [INFO] Customer been created - Shopidy ID - 9982767661370 - BC id=452
+[2026-02-19 15:29:53] [INFO] Customer been created - Shopidy ID - 9982767890746 - BC id=451
+[2026-02-19 15:29:58] [ERROR] Execption error - Shopify API Error (422): {"errors":{"address":["has already been taken"]}} - BC id=450 -- Email: briank@altoniowa.us
+[2026-02-19 15:30:02] [INFO] Customer been created - Shopidy ID - 9982768185658 - BC id=448
+[2026-02-19 15:30:02] [ERROR] Execption error - Shopify API Error (422): {"errors":{"phone":["is invalid"]}} - BC id=447 -- Email: nan@thewindwardgroupllc.com
+[2026-02-19 15:30:09] [INFO] Customer been created - Shopidy ID - 9982768349498 - BC id=446
+[2026-02-19 15:30:16] [INFO] Customer been created - Shopidy ID - 9982768513338 - BC id=445
+[2026-02-19 15:30:22] [INFO] Customer been created - Shopidy ID - 9982768611642 - BC id=444
+[2026-02-19 15:30:27] [ERROR] Execption error - Shopify API Error (422): {"errors":{"address":["has already been taken"]}} - BC id=443 -- Email: lpc@srcaccess.net
+[2026-02-19 15:30:34] [INFO] Customer been created - Shopidy ID - 9982768906554 - BC id=442
+[2026-02-19 15:30:38] [INFO] Customer been created - Shopidy ID - 9982769135930 - BC id=441
+[2026-02-19 15:30:44] [INFO] Customer been created - Shopidy ID - 9982769234234 - BC id=440
+[2026-02-19 15:30:49] [INFO] Customer been created - Shopidy ID - 9982769398074 - BC id=439
+[2026-02-19 15:30:53] [INFO] Customer been created - Shopidy ID - 9982769463610 - BC id=438
+[2026-02-19 15:30:53] [ERROR] Execption error - Shopify API Error (422): {"errors":{"phone":["is invalid"]}} - BC id=437 -- Email: cityofruthven@ruthventel.com
+[2026-02-19 15:30:58] [INFO] Customer been created - Shopidy ID - 9982769561914 - BC id=436
+[2026-02-19 15:31:02] [INFO] Customer been created - Shopidy ID - 9982769692986 - BC id=435
+[2026-02-19 15:31:09] [ERROR] Execption error - Shopify API Error (422): {"errors":{"address":["has already been taken"]}} - BC id=434 -- Email: pwu@rouxinc.com
+[2026-02-19 15:31:13] [INFO] Customer been created - Shopidy ID - 9982770053434 - BC id=433
+[2026-02-19 15:31:20] [INFO] Customer been created - Shopidy ID - 9982770184506 - BC id=432
+[2026-02-19 15:31:24] [INFO] Customer been created - Shopidy ID - 9982770413882 - BC id=431
+[2026-02-19 15:31:28] [INFO] Customer been created - Shopidy ID - 9982770577722 - BC id=430
+[2026-02-19 15:31:32] [INFO] Customer been created - Shopidy ID - 9982770643258 - BC id=429
+[2026-02-19 15:31:36] [INFO] Customer been created - Shopidy ID - 9982770872634 - BC id=428
+[2026-02-19 15:31:43] [INFO] Customer been created - Shopidy ID - 9982770970938 - BC id=427
+[2026-02-19 15:31:50] [INFO] Customer been created - Shopidy ID - 9982771167546 - BC id=426
+[2026-02-19 15:31:57] [INFO] Customer been created - Shopidy ID - 9982771298618 - BC id=425
+[2026-02-19 15:32:04] [INFO] Customer been created - Shopidy ID - 9982771462458 - BC id=424
+[2026-02-19 15:32:08] [INFO] Customer been created - Shopidy ID - 9982771855674 - BC id=423
+[2026-02-19 15:32:12] [INFO] Customer been created - Shopidy ID - 9982772019514 - BC id=422
+[2026-02-19 15:32:16] [INFO] Customer been created - Shopidy ID - 9982772183354 - BC id=421
+[2026-02-19 15:32:20] [INFO] Customer been created - Shopidy ID - 9982772281658 - BC id=420
+[2026-02-19 15:32:24] [INFO] Customer been created - Shopidy ID - 9982772412730 - BC id=419
+[2026-02-19 15:32:31] [INFO] Customer been created - Shopidy ID - 9982772642106 - BC id=418
+[2026-02-19 15:32:38] [INFO] Customer been created - Shopidy ID - 9982772871482 - BC id=417
+[2026-02-19 15:32:44] [INFO] Customer been created - Shopidy ID - 9982773133626 - BC id=416
+[2026-02-19 15:32:51] [INFO] Customer been created - Shopidy ID - 9982773330234 - BC id=415
+[2026-02-19 15:32:58] [INFO] Customer been created - Shopidy ID - 9982773559610 - BC id=414
+[2026-02-19 15:33:02] [INFO] Customer been created - Shopidy ID - 9982773723450 - BC id=413
+[2026-02-19 15:33:06] [INFO] Customer been created - Shopidy ID - 9982773821754 - BC id=412
+[2026-02-19 15:33:10] [INFO] Customer been created - Shopidy ID - 9982773920058 - BC id=411
+[2026-02-19 15:33:17] [INFO] Customer been created - Shopidy ID - 9982774083898 - BC id=410
+[2026-02-19 15:33:21] [INFO] Customer been created - Shopidy ID - 9982774280506 - BC id=409
+[2026-02-19 15:33:28] [ERROR] Execption error - Shopify API Error (422): {"errors":{"address":["has already been taken"]}} - BC id=408 -- Email: ashley.offer@oneatlas.com
+[2026-02-19 15:33:33] [ERROR] Execption error - Shopify API Error (422): {"errors":{"address":["has already been taken"]}} - BC id=407 -- Email: bgiannelli@arcticglacier.com
+[2026-02-19 15:33:37] [INFO] Customer been created - Shopidy ID - 9982774837562 - BC id=406
+[2026-02-19 15:33:44] [INFO] Customer been created - Shopidy ID - 9982774935866 - BC id=405
+[2026-02-19 15:33:48] [INFO] Customer been created - Shopidy ID - 9982775066938 - BC id=404
+[2026-02-19 15:33:52] [INFO] Customer been created - Shopidy ID - 9982775165242 - BC id=403
+[2026-02-19 15:33:56] [INFO] Customer been created - Shopidy ID - 9982775263546 - BC id=402
+[2026-02-19 15:34:03] [INFO] Customer been created - Shopidy ID - 9982775427386 - BC id=401
+[2026-02-19 15:34:09] [INFO] Customer been created - Shopidy ID - 9982775787834 - BC id=400
+[2026-02-19 15:34:16] [INFO] Customer been created - Shopidy ID - 9982775984442 - BC id=399
+[2026-02-19 15:34:20] [INFO] Customer been created - Shopidy ID - 9982776115514 - BC id=398
+[2026-02-19 15:34:27] [INFO] Customer been created - Shopidy ID - 9982776181050 - BC id=397
+[2026-02-19 15:34:31] [INFO] Customer been created - Shopidy ID - 9982776279354 - BC id=396
+[2026-02-19 15:34:35] [INFO] Customer been created - Shopidy ID - 9982776377658 - BC id=395
+[2026-02-19 15:34:43] [INFO] Customer been created - Shopidy ID - 9982776475962 - BC id=394
+[2026-02-19 15:34:47] [INFO] Customer been created - Shopidy ID - 9982776607034 - BC id=393
+[2026-02-19 15:34:51] [INFO] Customer been created - Shopidy ID - 9982776705338 - BC id=392
+[2026-02-19 15:34:55] [INFO] Customer been created - Shopidy ID - 9982776967482 - BC id=391
+[2026-02-19 15:35:02] [INFO] Customer been created - Shopidy ID - 9982777033018 - BC id=390
+[2026-02-19 15:35:06] [INFO] Customer been created - Shopidy ID - 9982777098554 - BC id=389
+[2026-02-19 15:35:11] [INFO] Customer been created - Shopidy ID - 9982777360698 - BC id=388
+[2026-02-19 15:35:15] [INFO] Customer been created - Shopidy ID - 9982777426234 - BC id=387
+[2026-02-19 15:35:19] [INFO] Customer been created - Shopidy ID - 9982777491770 - BC id=386
+[2026-02-19 15:35:23] [INFO] Customer been created - Shopidy ID - 9982777655610 - BC id=385
+[2026-02-19 15:35:27] [INFO] Customer been created - Shopidy ID - 9982777786682 - BC id=384
+[2026-02-19 15:35:34] [INFO] Customer been created - Shopidy ID - 9982777884986 - BC id=383
+[2026-02-19 15:35:39] [ERROR] Execption error - Shopify API Error (422): {"errors":{"address":["has already been taken"]}} - BC id=382 -- Email: globalelectric@bright.net
+[2026-02-19 15:35:45] [INFO] Customer been created - Shopidy ID - 9982778278202 - BC id=381
+[2026-02-19 15:35:50] [ERROR] Execption error - Shopify API Error (422): {"errors":{"address":["has already been taken"]}} - BC id=380 -- Email: mdpiner@hotmail.com
+[2026-02-19 15:35:54] [INFO] Customer been created - Shopidy ID - 9982778638650 - BC id=379
+[2026-02-19 15:36:01] [INFO] Customer been created - Shopidy ID - 9982778835258 - BC id=378
+[2026-02-19 15:36:05] [INFO] Customer been created - Shopidy ID - 9982778999098 - BC id=377
+[2026-02-19 15:36:10] [INFO] Customer been created - Shopidy ID - 9982779195706 - BC id=376
+[2026-02-19 15:36:16] [INFO] Customer been created - Shopidy ID - 9982779326778 - BC id=375
+[2026-02-19 15:36:20] [INFO] Customer been created - Shopidy ID - 9982779490618 - BC id=374
+[2026-02-19 15:36:25] [INFO] Customer been created - Shopidy ID - 9982779556154 - BC id=373
+[2026-02-19 15:36:29] [INFO] Customer been created - Shopidy ID - 9982779719994 - BC id=372
+[2026-02-19 15:36:35] [INFO] Customer been created - Shopidy ID - 9982779818298 - BC id=371
+[2026-02-19 15:36:40] [INFO] Customer been created - Shopidy ID - 9982780113210 - BC id=370
+[2026-02-19 15:36:46] [INFO] Customer been created - Shopidy ID - 9982780309818 - BC id=369
+[2026-02-19 15:36:50] [INFO] Customer been created - Shopidy ID - 9982780539194 - BC id=368
+[2026-02-19 15:36:55] [ERROR] Execption error - Shopify API Error (422): {"errors":{"address":["has already been taken"]}} - BC id=367 -- Email: dsimpson@pastamia.com
+[2026-02-19 15:36:59] [INFO] Customer been created - Shopidy ID - 9982780866874 - BC id=366
+[2026-02-19 15:37:03] [INFO] Customer been created - Shopidy ID - 9982780997946 - BC id=365
+[2026-02-19 15:37:07] [INFO] Customer been created - Shopidy ID - 9982781161786 - BC id=364
+[2026-02-19 15:37:12] [ERROR] Execption error - Shopify API Error (422): {"errors":{"address":["has already been taken"]}} - BC id=363 -- Email: halled@vmcmail.com
+[2026-02-19 15:37:19] [INFO] Customer been created - Shopidy ID - 9982781555002 - BC id=362
+[2026-02-19 15:37:23] [INFO] Customer been created - Shopidy ID - 9982781653306 - BC id=361
+[2026-02-19 15:37:27] [INFO] Customer been created - Shopidy ID - 9982781718842 - BC id=360
+[2026-02-19 15:37:31] [INFO] Customer been created - Shopidy ID - 9982781882682 - BC id=359
+[2026-02-19 15:37:35] [INFO] Customer been created - Shopidy ID - 9982781915450 - BC id=358
+[2026-02-19 15:37:42] [INFO] Customer been created - Shopidy ID - 9982782112058 - BC id=357
+[2026-02-19 15:37:46] [INFO] Customer been created - Shopidy ID - 9982782275898 - BC id=356
+[2026-02-19 15:37:50] [INFO] Customer been created - Shopidy ID - 9982782341434 - BC id=355
+[2026-02-19 15:37:54] [INFO] Customer been created - Shopidy ID - 9982782505274 - BC id=354
+[2026-02-19 15:38:01] [INFO] Customer been created - Shopidy ID - 9982782669114 - BC id=353
+[2026-02-19 15:38:10] [INFO] Customer been created - Shopidy ID - 9982782865722 - BC id=352
+[2026-02-19 15:38:15] [ERROR] Execption error - Shopify API Error (422): {"errors":{"address":["has already been taken"]}} - BC id=351 -- Email: gkuehn@kenesaw.org
+[2026-02-19 15:38:19] [INFO] Customer been created - Shopidy ID - 9982783488314 - BC id=350
+[2026-02-19 15:38:24] [INFO] Customer been created - Shopidy ID - 9982783553850 - BC id=349
+[2026-02-19 15:38:28] [INFO] Customer been created - Shopidy ID - 9982783619386 - BC id=348
+[2026-02-19 15:38:32] [INFO] Customer been created - Shopidy ID - 9982783750458 - BC id=347
+[2026-02-19 15:38:36] [INFO] Customer been created - Shopidy ID - 9982783815994 - BC id=346
+[2026-02-19 15:38:40] [INFO] Customer been created - Shopidy ID - 9982783914298 - BC id=345
+[2026-02-19 15:38:45] [ERROR] Execption error - Shopify API Error (422): {"errors":{"address":["has already been taken"]}} - BC id=344 -- Email: josephh@cal-am.com
+[2026-02-19 15:38:50] [ERROR] Execption error - Shopify API Error (422): {"errors":{"address":["has already been taken"]}} - BC id=343 -- Email: boyettrd@outlook.com
+[2026-02-19 15:38:56] [INFO] Customer been created - Shopidy ID - 9982784373050 - BC id=342
+[2026-02-19 15:39:00] [INFO] Customer been created - Shopidy ID - 9982784733498 - BC id=341
+[2026-02-19 15:39:05] [INFO] Customer been created - Shopidy ID - 9982784831802 - BC id=340
+[2026-02-19 15:39:09] [INFO] Customer been created - Shopidy ID - 9982785159482 - BC id=339
+[2026-02-19 15:39:15] [INFO] Customer been created - Shopidy ID - 9982785257786 - BC id=338
+[2026-02-19 15:39:20] [INFO] Customer been created - Shopidy ID - 9982785388858 - BC id=337
+[2026-02-19 15:39:26] [INFO] Customer been created - Shopidy ID - 9982785487162 - BC id=336
+[2026-02-19 15:39:31] [INFO] Customer been created - Shopidy ID - 9982785585466 - BC id=335
+[2026-02-19 15:39:35] [INFO] Customer been created - Shopidy ID - 9982785651002 - BC id=334
+[2026-02-19 15:39:39] [INFO] Customer been created - Shopidy ID - 9982785782074 - BC id=333
+[2026-02-19 15:39:43] [INFO] Customer been created - Shopidy ID - 9982785913146 - BC id=332
+[2026-02-19 15:39:47] [INFO] Customer been created - Shopidy ID - 9982786044218 - BC id=331
+[2026-02-19 15:39:51] [INFO] Customer been created - Shopidy ID - 9982786240826 - BC id=330
+[2026-02-19 15:39:58] [INFO] Customer been created - Shopidy ID - 9982786306362 - BC id=329
+[2026-02-19 15:40:02] [INFO] Customer been created - Shopidy ID - 9982786535738 - BC id=328
+[2026-02-19 15:40:06] [INFO] Customer been created - Shopidy ID - 9982786666810 - BC id=327
+[2026-02-19 15:40:11] [ERROR] Execption error - Shopify API Error (422): {"errors":{"address":["has already been taken"]}} - BC id=326 -- Email: matt@windycitycurling.org
+[2026-02-19 15:40:15] [INFO] Customer been created - Shopidy ID - 9982786896186 - BC id=325
+[2026-02-19 15:40:20] [INFO] Customer been created - Shopidy ID - 9982786994490 - BC id=324
+[2026-02-19 15:40:26] [INFO] Customer been created - Shopidy ID - 9982787060026 - BC id=323
+[2026-02-19 15:40:33] [INFO] Customer been created - Shopidy ID - 9982787387706 - BC id=322
+[2026-02-19 15:40:37] [INFO] Customer been created - Shopidy ID - 9982787584314 - BC id=321
+[2026-02-19 15:40:41] [INFO] Customer been created - Shopidy ID - 9982787780922 - BC id=320
+[2026-02-19 15:40:48] [INFO] Customer been created - Shopidy ID - 9982787911994 - BC id=319
+[2026-02-19 15:40:57] [INFO] Customer been created - Shopidy ID - 9982788108602 - BC id=318
+[2026-02-19 15:41:04] [INFO] Customer been created - Shopidy ID - 9982788370746 - BC id=317
+[2026-02-19 15:41:08] [INFO] Customer been created - Shopidy ID - 9982788600122 - BC id=316
+[2026-02-19 15:41:15] [INFO] Customer been created - Shopidy ID - 9982788763962 - BC id=314
+[2026-02-19 15:41:22] [INFO] Customer been created - Shopidy ID - 9982789026106 - BC id=313
+[2026-02-19 15:41:26] [INFO] Customer been created - Shopidy ID - 9982789255482 - BC id=312
+[2026-02-19 15:41:30] [INFO] Customer been created - Shopidy ID - 9982789386554 - BC id=311
+[2026-02-19 15:41:30] [ERROR] Execption error - Shopify API Error (422): {"errors":{"phone":["is invalid"]}} - BC id=310 -- Email: samsong.1234@gmail.com
+[2026-02-19 15:41:34] [INFO] Customer been created - Shopidy ID - 9982789484858 - BC id=309
+[2026-02-19 15:41:38] [INFO] Customer been created - Shopidy ID - 9982789747002 - BC id=308
+[2026-02-19 15:41:45] [INFO] Customer been created - Shopidy ID - 9982789845306 - BC id=307
+[2026-02-19 15:41:54] [INFO] Customer been created - Shopidy ID - 9982789910842 - BC id=306
+[2026-02-19 15:42:01] [INFO] Customer been created - Shopidy ID - 9982790041914 - BC id=305
+[2026-02-19 15:42:05] [INFO] Customer been created - Shopidy ID - 9982790172986 - BC id=304
+[2026-02-19 15:42:09] [INFO] Customer been created - Shopidy ID - 9982790238522 - BC id=303
+[2026-02-19 15:42:14] [INFO] Customer been created - Shopidy ID - 9982790369594 - BC id=302
+[2026-02-19 15:42:18] [INFO] Customer been created - Shopidy ID - 9982790402362 - BC id=301
+[2026-02-19 15:42:24] [INFO] Customer been created - Shopidy ID - 9982790467898 - BC id=300
+[2026-02-19 15:42:31] [INFO] Customer been created - Shopidy ID - 9982790533434 - BC id=299
+[2026-02-19 15:42:36] [ERROR] Execption error - Shopify API Error (422): {"errors":{"address":["has already been taken"]}} - BC id=298 -- Email: lane@simonop.com
+[2026-02-19 15:42:42] [INFO] Customer been created - Shopidy ID - 9982790795578 - BC id=297
+[2026-02-19 15:42:47] [INFO] Customer been created - Shopidy ID - 9982790926650 - BC id=296
+[2026-02-19 15:42:51] [INFO] Customer been created - Shopidy ID - 9982791123258 - BC id=295
+[2026-02-19 15:42:55] [INFO] Customer been created - Shopidy ID - 9982791254330 - BC id=294
+[2026-02-19 15:43:05] [ERROR] Execption error - Shopify API Error (422): {"errors":{"address":["has already been taken"]}} - BC id=293 -- Email: cdyches@mainline-ind.com
+[2026-02-19 15:43:09] [INFO] Customer been created - Shopidy ID - 9982791582010 - BC id=292
+[2026-02-19 15:43:13] [INFO] Customer been created - Shopidy ID - 9982791713082 - BC id=291
+[2026-02-19 15:43:17] [INFO] Customer been created - Shopidy ID - 9982791778618 - BC id=290
+[2026-02-19 15:43:18] [ERROR] Execption error - Shopify API Error (422): {"errors":{"phone":["is invalid"]}} - BC id=289 -- Email: bcpse@bigcommerce.com
+[2026-02-19 15:43:22] [INFO] Customer been created - Shopidy ID - 9982791909690 - BC id=288
+[2026-02-19 15:43:29] [INFO] Customer been created - Shopidy ID - 9982792007994 - BC id=285
+[2026-02-19 15:43:33] [INFO] Customer been created - Shopidy ID - 9982792171834 - BC id=284
+[2026-02-19 15:43:42] [INFO] Customer been created - Shopidy ID - 9982792237370 - BC id=283
+[2026-02-19 15:43:46] [INFO] Customer been created - Shopidy ID - 9982792302906 - BC id=282
+[2026-02-19 15:43:50] [INFO] Customer been created - Shopidy ID - 9982792335674 - BC id=281
+[2026-02-19 15:43:57] [INFO] Customer been created - Shopidy ID - 9982792466746 - BC id=280
+[2026-02-19 15:44:01] [INFO] Customer been created - Shopidy ID - 9982792565050 - BC id=279
+[2026-02-19 15:44:08] [INFO] Customer been created - Shopidy ID - 9982792630586 - BC id=278
+[2026-02-19 15:44:12] [INFO] Customer been created - Shopidy ID - 9982792859962 - BC id=277
+[2026-02-19 15:44:16] [INFO] Customer been created - Shopidy ID - 9982793023802 - BC id=276
+[2026-02-19 15:44:20] [INFO] Customer been created - Shopidy ID - 9982793220410 - BC id=275
+[2026-02-19 15:44:25] [INFO] Customer been created - Shopidy ID - 9982793253178 - BC id=274
+[2026-02-19 15:44:29] [INFO] Customer been created - Shopidy ID - 9982793318714 - BC id=273
+[2026-02-19 15:44:33] [INFO] Customer been created - Shopidy ID - 9982793384250 - BC id=272
+[2026-02-19 15:44:37] [INFO] Customer been created - Shopidy ID - 9982793482554 - BC id=271
+[2026-02-19 15:44:44] [INFO] Customer been created - Shopidy ID - 9982793744698 - BC id=270
+[2026-02-19 15:44:48] [ERROR] Execption error - Shopify API Error (422): {"errors":{"address":["has already been taken"]}} - BC id=269 -- Email: fay.jones1953@yahoo.com
+[2026-02-19 15:44:52] [INFO] Customer been created - Shopidy ID - 9982794072378 - BC id=268
+[2026-02-19 15:44:57] [INFO] Customer been created - Shopidy ID - 9982794170682 - BC id=267
+[2026-02-19 15:45:01] [ERROR] Execption error - Shopify API Error (422): {"errors":{"address":["has already been taken"]}} - BC id=266 -- Email: cofbutilities@gmail.com
+[2026-02-19 15:45:08] [INFO] Customer been created - Shopidy ID - 9982794465594 - BC id=265
+[2026-02-19 15:45:15] [INFO] Customer been created - Shopidy ID - 9982794727738 - BC id=264
+[2026-02-19 15:45:19] [INFO] Customer been created - Shopidy ID - 9982794826042 - BC id=263
+[2026-02-19 15:45:23] [INFO] Customer been created - Shopidy ID - 9982794957114 - BC id=262
+[2026-02-19 15:45:27] [INFO] Customer been created - Shopidy ID - 9982795022650 - BC id=261
+[2026-02-19 15:45:32] [ERROR] Execption error - Shopify API Error (422): {"errors":{"address":["has already been taken"]}} - BC id=260 -- Email: merickson@coawi.org
+[2026-02-19 15:45:36] [INFO] Customer been created - Shopidy ID - 9982795350330 - BC id=259
+[2026-02-19 15:45:40] [INFO] Customer been created - Shopidy ID - 9982795645242 - BC id=258
+[2026-02-19 15:45:47] [INFO] Customer been created - Shopidy ID - 9982795710778 - BC id=257
+[2026-02-19 15:45:51] [INFO] Customer been created - Shopidy ID - 9982795743546 - BC id=256
+[2026-02-19 15:45:56] [INFO] Customer been created - Shopidy ID - 9982795809082 - BC id=255
+[2026-02-19 15:46:00] [INFO] Customer been created - Shopidy ID - 9982795907386 - BC id=254
+[2026-02-19 15:46:04] [INFO] Customer been created - Shopidy ID - 9982796005690 - BC id=253
+[2026-02-19 15:46:08] [INFO] Customer been created - Shopidy ID - 9982796202298 - BC id=252
+[2026-02-19 15:46:15] [INFO] Customer been created - Shopidy ID - 9982796333370 - BC id=251
+[2026-02-19 15:46:19] [INFO] Customer been created - Shopidy ID - 9982796562746 - BC id=250
+[2026-02-19 15:46:26] [INFO] Customer been created - Shopidy ID - 9982796693818 - BC id=249
+[2026-02-19 15:46:30] [INFO] Customer been created - Shopidy ID - 9982796857658 - BC id=248
+[2026-02-19 15:46:34] [INFO] Customer been created - Shopidy ID - 9982796890426 - BC id=247
+[2026-02-19 15:46:41] [INFO] Customer been created - Shopidy ID - 9982796955962 - BC id=246
+[2026-02-19 15:46:48] [INFO] Customer been created - Shopidy ID - 9982797152570 - BC id=245
+[2026-02-19 15:46:52] [INFO] Customer been created - Shopidy ID - 9982797381946 - BC id=244
+[2026-02-19 15:46:56] [INFO] Customer been created - Shopidy ID - 9982797447482 - BC id=243
+[2026-02-19 15:47:03] [INFO] Customer been created - Shopidy ID - 9982797545786 - BC id=242
+[2026-02-19 15:47:07] [INFO] Customer been created - Shopidy ID - 9982797611322 - BC id=241
+[2026-02-19 15:47:11] [INFO] Customer been created - Shopidy ID - 9982797709626 - BC id=240
+[2026-02-19 15:47:16] [ERROR] Execption error - Shopify API Error (422): {"errors":{"address":["has already been taken"]}} - BC id=239 -- Email: treasurer@lutheranch.ca
+[2026-02-19 15:47:22] [INFO] Customer been created - Shopidy ID - 9982797906234 - BC id=238
+[2026-02-19 15:47:32] [INFO] Customer been created - Shopidy ID - 9982797939002 - BC id=237
+[2026-02-19 15:47:36] [INFO] Customer been created - Shopidy ID - 9982798233914 - BC id=236
+[2026-02-19 15:47:40] [INFO] Customer been created - Shopidy ID - 9982798364986 - BC id=235
+[2026-02-19 15:47:44] [INFO] Customer been created - Shopidy ID - 9982798496058 - BC id=234
+[2026-02-19 15:47:51] [INFO] Customer been created - Shopidy ID - 9982798594362 - BC id=233
+[2026-02-19 15:47:55] [INFO] Customer been created - Shopidy ID - 9982798725434 - BC id=232
+[2026-02-19 15:47:59] [INFO] Customer been created - Shopidy ID - 9982798790970 - BC id=231
+[2026-02-19 15:48:03] [INFO] Customer been created - Shopidy ID - 9982798889274 - BC id=230
+[2026-02-19 15:48:08] [INFO] Customer been created - Shopidy ID - 9982799053114 - BC id=229
+[2026-02-19 15:48:12] [INFO] Customer been created - Shopidy ID - 9982799151418 - BC id=227
+[2026-02-19 15:48:16] [INFO] Customer been created - Shopidy ID - 9982799216954 - BC id=226
+[2026-02-19 15:48:23] [INFO] Customer been created - Shopidy ID - 9982799380794 - BC id=225
+[2026-02-19 15:48:27] [INFO] Customer been created - Shopidy ID - 9982799577402 - BC id=224
+[2026-02-19 15:48:31] [INFO] Customer been created - Shopidy ID - 9982799708474 - BC id=223
+[2026-02-19 15:48:35] [INFO] Customer been created - Shopidy ID - 9982799806778 - BC id=222
+[2026-02-19 15:48:39] [INFO] Customer been created - Shopidy ID - 9982799970618 - BC id=221
+[2026-02-19 15:48:43] [INFO] Customer been created - Shopidy ID - 9982800068922 - BC id=220
+[2026-02-19 15:48:50] [INFO] Customer been created - Shopidy ID - 9982800199994 - BC id=219
+[2026-02-19 15:48:54] [INFO] Customer been created - Shopidy ID - 9982800331066 - BC id=218
+[2026-02-19 15:48:58] [INFO] Customer been created - Shopidy ID - 9982800429370 - BC id=217
+[2026-02-19 15:49:05] [INFO] Customer been created - Shopidy ID - 9982800494906 - BC id=216
+[2026-02-19 15:49:12] [INFO] Customer been created - Shopidy ID - 9982800724282 - BC id=215
+[2026-02-19 15:49:18] [INFO] Customer been created - Shopidy ID - 9982800757050 - BC id=214
+[2026-02-19 15:49:22] [INFO] Customer been created - Shopidy ID - 9982800888122 - BC id=213
+[2026-02-19 15:49:27] [INFO] Customer been created - Shopidy ID - 9982800986426 - BC id=212
+[2026-02-19 15:49:31] [ERROR] Execption error - Shopify API Error (422): {"errors":{"address":["has already been taken"]}} - BC id=211 -- Email: andy.robinson@arcadis.com
+[2026-02-19 15:49:35] [INFO] Customer been created - Shopidy ID - 9982801281338 - BC id=210
+[2026-02-19 15:49:40] [INFO] Customer been created - Shopidy ID - 9982801576250 - BC id=209
+[2026-02-19 15:49:46] [INFO] Customer been created - Shopidy ID - 9982801740090 - BC id=208
+[2026-02-19 15:49:51] [ERROR] Execption error - Shopify API Error (422): {"errors":{"address":["has already been taken"]}} - BC id=207 -- Email: bnorton1@wm.com
+[2026-02-19 15:49:55] [INFO] Customer been created - Shopidy ID - 9982801903930 - BC id=206
+[2026-02-19 15:50:00] [ERROR] Execption error - Shopify API Error (422): {"errors":{"address":["has already been taken"]}} - BC id=205 -- Email: DUTCHGARDENS@MARKTWAIN.NET
+[2026-02-19 15:50:04] [INFO] Customer been created - Shopidy ID - 9982802198842 - BC id=204
+[2026-02-19 15:50:11] [INFO] Customer been created - Shopidy ID - 9982802362682 - BC id=203
+[2026-02-19 15:50:11] [ERROR] Execption error - Shopify API Error (422): {"errors":{"phone":["is invalid"]}} - BC id=202 -- Email: rsanmiguel@gemc.com
+[2026-02-19 15:50:15] [INFO] Customer been created - Shopidy ID - 9982802559290 - BC id=201
+[2026-02-19 15:50:19] [INFO] Customer been created - Shopidy ID - 9982802657594 - BC id=200
+[2026-02-19 15:50:23] [INFO] Customer been created - Shopidy ID - 9982802755898 - BC id=199
+[2026-02-19 15:50:28] [INFO] Customer been created - Shopidy ID - 9982802821434 - BC id=198
+[2026-02-19 15:50:28] [ERROR] Execption error - Shopify API Error (422): {"errors":{"phone":["is invalid"]}} - BC id=197 -- Email: sanjaydharshan@yahoo.co.uk
+[2026-02-19 15:50:32] [INFO] Customer been created - Shopidy ID - 9982802886970 - BC id=196
+[2026-02-19 15:50:37] [ERROR] Execption error - Shopify API Error (422): {"errors":{"address":["has already been taken"]}} - BC id=195 -- Email: pitstopsh@yahoo.com
+[2026-02-19 15:50:41] [INFO] Customer been created - Shopidy ID - 9982803214650 - BC id=194
+[2026-02-19 15:50:45] [INFO] Customer been created - Shopidy ID - 9982803378490 - BC id=192
+[2026-02-19 15:50:52] [INFO] Customer been created - Shopidy ID - 9982803411258 - BC id=191
+[2026-02-19 15:50:56] [ERROR] Execption error - Shopify API Error (422): {"errors":{"address":["has already been taken"]}} - BC id=190 -- Email: carigna4@msu.edu
+[2026-02-19 15:51:03] [INFO] Customer been created - Shopidy ID - 9982803673402 - BC id=189
+[2026-02-19 15:51:07] [INFO] Customer been created - Shopidy ID - 9982803968314 - BC id=188
+[2026-02-19 15:51:11] [INFO] Customer been created - Shopidy ID - 9982804295994 - BC id=187
+[2026-02-19 15:51:16] [ERROR] Execption error - Shopify API Error (422): {"errors":{"address":["has already been taken"]}} - BC id=186 -- Email: olivia.crosby@wsp.com
+[2026-02-19 15:51:21] [INFO] Customer been created - Shopidy ID - 9982804427066 - BC id=185
+[2026-02-19 15:51:23] [ERROR] No addresses found - - BC id=184
+[2026-02-19 15:51:27] [INFO] Customer been created - Shopidy ID - 9982804558138 - BC id=183
+[2026-02-19 15:51:31] [INFO] Customer been created - Shopidy ID - 9982804689210 - BC id=182
+[2026-02-19 15:51:35] [INFO] Customer been created - Shopidy ID - 9982804721978 - BC id=181
+[2026-02-19 15:51:42] [INFO] Customer been created - Shopidy ID - 9982804984122 - BC id=180
+[2026-02-19 15:51:46] [INFO] Customer been created - Shopidy ID - 9982805082426 - BC id=179
+[2026-02-19 15:51:53] [INFO] Customer been created - Shopidy ID - 9982805180730 - BC id=178
+[2026-02-19 15:51:57] [INFO] Customer been created - Shopidy ID - 9982805377338 - BC id=177
+[2026-02-19 15:52:01] [INFO] Customer been created - Shopidy ID - 9982805475642 - BC id=176
+[2026-02-19 15:52:03] [ERROR] No addresses found - - BC id=175
+[2026-02-19 15:52:07] [INFO] Customer been created - Shopidy ID - 9982805672250 - BC id=174
+[2026-02-19 15:52:12] [INFO] Customer been created - Shopidy ID - 9982805836090 - BC id=173
+[2026-02-19 15:52:18] [INFO] Customer been created - Shopidy ID - 9982805934394 - BC id=172
+[2026-02-19 15:52:22] [INFO] Customer been created - Shopidy ID - 9982806065466 - BC id=171
+[2026-02-19 15:52:26] [INFO] Customer been created - Shopidy ID - 9982806131002 - BC id=170
+[2026-02-19 15:52:31] [INFO] Customer been created - Shopidy ID - 9982806327610 - BC id=169
+[2026-02-19 15:52:35] [INFO] Customer been created - Shopidy ID - 9982806425914 - BC id=168
+[2026-02-19 15:52:42] [INFO] Customer been created - Shopidy ID - 9982806589754 - BC id=167
+[2026-02-19 15:52:42] [ERROR] Execption error - Shopify API Error (422): {"errors":{"phone":["is invalid"]}} - BC id=166 -- Email: jdickerson@davis-houk.com
+[2026-02-19 15:52:46] [INFO] Customer been created - Shopidy ID - 9982806720826 - BC id=165
+[2026-02-19 15:52:53] [INFO] Customer been created - Shopidy ID - 9982806917434 - BC id=164
+[2026-02-19 15:52:57] [INFO] Customer been created - Shopidy ID - 9982807114042 - BC id=163
+[2026-02-19 15:53:04] [INFO] Customer been created - Shopidy ID - 9982807212346 - BC id=162
+[2026-02-19 15:53:08] [INFO] Customer been created - Shopidy ID - 9982807441722 - BC id=161
+[2026-02-19 15:53:15] [INFO] Customer been created - Shopidy ID - 9982807572794 - BC id=160
+[2026-02-19 15:53:21] [INFO] Customer been created - Shopidy ID - 9982807769402 - BC id=159
+[2026-02-19 15:53:25] [INFO] Customer been created - Shopidy ID - 9982807933242 - BC id=158
+[2026-02-19 15:53:30] [ERROR] Execption error - Shopify API Error (422): {"errors":{"address":["has already been taken"]}} - BC id=157 -- Email: jparnell@wellingtonagresearch.com
+[2026-02-19 15:53:34] [INFO] Customer been created - Shopidy ID - 9982808064314 - BC id=156
+[2026-02-19 15:53:38] [INFO] Customer been created - Shopidy ID - 9982808129850 - BC id=155
+[2026-02-19 15:53:45] [INFO] Customer been created - Shopidy ID - 9982808228154 - BC id=154
+[2026-02-19 15:53:49] [INFO] Customer been created - Shopidy ID - 9982808490298 - BC id=153
+[2026-02-19 15:53:53] [INFO] Customer been created - Shopidy ID - 9982808555834 - BC id=152
+[2026-02-19 15:53:58] [INFO] Customer been created - Shopidy ID - 9982808686906 - BC id=151
+[2026-02-19 15:54:02] [INFO] Customer been created - Shopidy ID - 9982808719674 - BC id=150
+[2026-02-19 15:54:06] [INFO] Customer been created - Shopidy ID - 9982808752442 - BC id=149
+[2026-02-19 15:54:12] [INFO] Customer been created - Shopidy ID - 9982808850746 - BC id=148
+[2026-02-19 15:54:17] [INFO] Customer been created - Shopidy ID - 9982809014586 - BC id=147
+[2026-02-19 15:54:23] [INFO] Customer been created - Shopidy ID - 9982809112890 - BC id=146
+[2026-02-19 15:54:30] [INFO] Customer been created - Shopidy ID - 9982809243962 - BC id=145
+[2026-02-19 15:54:36] [INFO] Customer been created - Shopidy ID - 9982809440570 - BC id=144
+[2026-02-19 15:54:43] [INFO] Customer been created - Shopidy ID - 9982809768250 - BC id=143
+[2026-02-19 15:54:47] [INFO] Customer been created - Shopidy ID - 9982809833786 - BC id=142
+[2026-02-19 15:54:54] [INFO] Customer been created - Shopidy ID - 9982809964858 - BC id=141
+[2026-02-19 15:54:58] [INFO] Customer been created - Shopidy ID - 9982810063162 - BC id=140
+[2026-02-19 15:55:05] [INFO] Customer been created - Shopidy ID - 9982810161466 - BC id=139
+[2026-02-19 15:55:09] [INFO] Customer been created - Shopidy ID - 9982810292538 - BC id=138
+[2026-02-19 15:55:13] [INFO] Customer been created - Shopidy ID - 9982810325306 - BC id=137
+[2026-02-19 15:55:17] [INFO] Customer been created - Shopidy ID - 9982810390842 - BC id=136
+[2026-02-19 15:55:21] [INFO] Customer been created - Shopidy ID - 9982810521914 - BC id=135
+[2026-02-19 15:55:28] [INFO] Customer been created - Shopidy ID - 9982810652986 - BC id=134
+[2026-02-19 15:55:32] [INFO] Customer been created - Shopidy ID - 9982810784058 - BC id=133
+[2026-02-19 15:55:36] [INFO] Customer been created - Shopidy ID - 9982810816826 - BC id=132
+[2026-02-19 15:55:40] [INFO] Customer been created - Shopidy ID - 9982810980666 - BC id=131
+[2026-02-19 15:55:45] [INFO] Customer been created - Shopidy ID - 9982811078970 - BC id=130
+[2026-02-19 15:55:49] [INFO] Customer been created - Shopidy ID - 9982811275578 - BC id=129
+[2026-02-19 15:55:53] [INFO] Customer been created - Shopidy ID - 9982811373882 - BC id=127
+[2026-02-19 15:55:58] [ERROR] Execption error - Shopify API Error (422): {"errors":{"address":["has already been taken"]}} - BC id=126 -- Email: KRosser@sevenson.com
+[2026-02-19 15:56:02] [INFO] Customer been created - Shopidy ID - 9982811603258 - BC id=125
+[2026-02-19 15:56:06] [ERROR] Execption error - Shopify API Error (422): {"errors":{"address":["has already been taken"]}} - BC id=124 -- Email: brent.williams@peerlessmidwest.com
+[2026-02-19 15:56:13] [INFO] Customer been created - Shopidy ID - 9982811930938 - BC id=123
+[2026-02-19 15:56:17] [INFO] Customer been created - Shopidy ID - 9982811996474 - BC id=122
+[2026-02-19 15:56:21] [INFO] Customer been created - Shopidy ID - 9982812029242 - BC id=121
+[2026-02-19 15:56:26] [ERROR] Execption error - Shopify API Error (422): {"errors":{"address":["has already been taken"]}} - BC id=120 -- Email: steve@powerups.com
+[2026-02-19 15:56:30] [INFO] Customer been created - Shopidy ID - 9982812193082 - BC id=119
+[2026-02-19 15:56:37] [INFO] Customer been created - Shopidy ID - 9982812225850 - BC id=118
+[2026-02-19 15:56:41] [INFO] Customer been created - Shopidy ID - 9982812324154 - BC id=116
+[2026-02-19 15:56:48] [INFO] Customer been created - Shopidy ID - 9982812487994 - BC id=115
+[2026-02-19 15:56:52] [INFO] Customer been created - Shopidy ID - 9982812651834 - BC id=114
+[2026-02-19 15:56:56] [INFO] Customer been created - Shopidy ID - 9982812782906 - BC id=113
+[2026-02-19 15:57:00] [INFO] Customer been created - Shopidy ID - 9982812815674 - BC id=112
+[2026-02-19 15:57:04] [INFO] Customer been created - Shopidy ID - 9982812946746 - BC id=111
+[2026-02-19 15:57:11] [INFO] Customer been created - Shopidy ID - 9982813077818 - BC id=110
+[2026-02-19 15:57:15] [INFO] Customer been created - Shopidy ID - 9982813339962 - BC id=109
+[2026-02-19 15:57:22] [INFO] Customer been created - Shopidy ID - 9982813405498 - BC id=108
+[2026-02-19 15:57:26] [INFO] Customer been created - Shopidy ID - 9982813634874 - BC id=107
+[2026-02-19 15:57:33] [INFO] Customer been created - Shopidy ID - 9982813667642 - BC id=106
+[2026-02-19 15:57:39] [INFO] Customer been created - Shopidy ID - 9982813798714 - BC id=105
+[2026-02-19 15:57:44] [INFO] Customer been created - Shopidy ID - 9982814028090 - BC id=104
+[2026-02-19 15:57:53] [INFO] Customer been created - Shopidy ID - 9982814126394 - BC id=103
+[2026-02-19 15:57:57] [INFO] Customer been created - Shopidy ID - 9982814257466 - BC id=102
+[2026-02-19 15:58:01] [INFO] Customer been created - Shopidy ID - 9982814290234 - BC id=101
+[2026-02-19 15:58:08] [INFO] Customer been created - Shopidy ID - 9982814486842 - BC id=100
+[2026-02-19 15:58:10] [ERROR] No addresses found - - BC id=99
+[2026-02-19 15:58:14] [INFO] Customer been created - Shopidy ID - 9982814748986 - BC id=98
+[2026-02-19 15:58:21] [INFO] Customer been created - Shopidy ID - 9982814945594 - BC id=97
+[2026-02-19 15:58:27] [INFO] Customer been created - Shopidy ID - 9982814978362 - BC id=96
+[2026-02-19 15:58:34] [INFO] Customer been created - Shopidy ID - 9982815076666 - BC id=95
+[2026-02-19 15:58:40] [INFO] Customer been created - Shopidy ID - 9982815240506 - BC id=94
+[2026-02-19 15:58:44] [INFO] Customer been created - Shopidy ID - 9982815568186 - BC id=93
+[2026-02-19 15:58:49] [INFO] Customer been created - Shopidy ID - 9982815633722 - BC id=92
+[2026-02-19 15:58:55] [INFO] Customer been created - Shopidy ID - 9982815732026 - BC id=91
+[2026-02-19 15:58:59] [INFO] Customer been created - Shopidy ID - 9982815797562 - BC id=90
+[2026-02-19 15:59:04] [INFO] Customer been created - Shopidy ID - 9982815928634 - BC id=89
+[2026-02-19 15:59:08] [INFO] Customer been created - Shopidy ID - 9982816289082 - BC id=88
+[2026-02-19 15:59:12] [INFO] Customer been created - Shopidy ID - 9982816420154 - BC id=87
+[2026-02-19 15:59:16] [INFO] Customer been created - Shopidy ID - 9982816452922 - BC id=86
+[2026-02-19 15:59:23] [INFO] Customer been created - Shopidy ID - 9982816518458 - BC id=85
+[2026-02-19 15:59:27] [INFO] Customer been created - Shopidy ID - 9982816583994 - BC id=84
+[2026-02-19 15:59:31] [INFO] Customer been created - Shopidy ID - 9982816682298 - BC id=82
+[2026-02-19 15:59:35] [INFO] Customer been created - Shopidy ID - 9982816780602 - BC id=81
+[2026-02-19 15:59:39] [INFO] Customer been created - Shopidy ID - 9982816977210 - BC id=80
+[2026-02-19 15:59:44] [ERROR] Execption error - Shopify API Error (422): {"errors":{"address":["has already been taken"]}} - BC id=79 -- Email: julio.coronado@floridabrewery.com
+[2026-02-19 15:59:48] [INFO] Customer been created - Shopidy ID - 9982817272122 - BC id=78
+[2026-02-19 15:59:54] [INFO] Customer been created - Shopidy ID - 9982817337658 - BC id=77
+[2026-02-19 16:00:01] [INFO] Customer been created - Shopidy ID - 9982817567034 - BC id=76
+[2026-02-19 16:00:05] [INFO] Customer been created - Shopidy ID - 9982817698106 - BC id=75
+[2026-02-19 16:00:09] [INFO] Customer been created - Shopidy ID - 9982817894714 - BC id=74
+[2026-02-19 16:00:14] [INFO] Customer been created - Shopidy ID - 9982817993018 - BC id=73
+[2026-02-19 16:00:18] [INFO] Customer been created - Shopidy ID - 9982818058554 - BC id=72
+[2026-02-19 16:00:22] [INFO] Customer been created - Shopidy ID - 9982818287930 - BC id=71
+[2026-02-19 16:00:26] [INFO] Customer been created - Shopidy ID - 9982818419002 - BC id=70
+[2026-02-19 16:00:26] [ERROR] Execption error - Shopify API Error (422): {"errors":{"phone":["is invalid"]}} - BC id=69 -- Email: ksurve@servicer.com
+[2026-02-19 16:00:33] [INFO] Customer been created - Shopidy ID - 9982818484538 - BC id=67
+[2026-02-19 16:00:37] [INFO] Customer been created - Shopidy ID - 9982818582842 - BC id=66
+[2026-02-19 16:00:41] [INFO] Customer been created - Shopidy ID - 9982818681146 - BC id=65
+[2026-02-19 16:00:46] [INFO] Customer been created - Shopidy ID - 9982818713914 - BC id=63
+[2026-02-19 16:00:50] [INFO] Customer been created - Shopidy ID - 9982818779450 - BC id=62
+[2026-02-19 16:00:54] [INFO] Customer been created - Shopidy ID - 9982818812218 - BC id=60
+[2026-02-19 16:00:58] [INFO] Customer been created - Shopidy ID - 9982819107130 - BC id=59
+[2026-02-19 16:01:02] [INFO] Customer been created - Shopidy ID - 9982819139898 - BC id=58
+[2026-02-19 16:01:07] [INFO] Customer been created - Shopidy ID - 9982819238202 - BC id=57
+[2026-02-19 16:01:11] [INFO] Customer been created - Shopidy ID - 9982819336506 - BC id=54
+[2026-02-19 16:01:20] [INFO] Customer been created - Shopidy ID - 9982819369274 - BC id=31
+===================================================================================================
+[2026-02-20 06:26:36] [INFO] Customer been created - Shopidy ID - 9985199243578 - BC id=1010
+[2026-02-20 06:26:40] [INFO] Customer been created - Shopidy ID - 9985199505722 - BC id=1009
+[2026-02-20 06:26:44] [INFO] Customer been created - Shopidy ID - 9985199571258 - BC id=1008
+[2026-02-20 06:26:51] [INFO] Customer been created - Shopidy ID - 9985199604026 - BC id=1007
+[2026-02-20 06:26:55] [INFO] Customer been created - Shopidy ID - 9985199669562 - BC id=1006
+[2026-02-20 06:26:59] [INFO] Customer been created - Shopidy ID - 9985199735098 - BC id=1005
+[2026-02-20 06:26:59] [INFO] Customer already imported: BC ID 1004
+[2026-02-20 06:26:59] [INFO] Customer already imported: BC ID 1003
+[2026-02-20 06:26:59] [INFO] Customer already imported: BC ID 1002
+[2026-02-20 06:26:59] [INFO] Customer already imported: BC ID 1001
+[2026-02-20 06:26:59] [INFO] Customer already imported: BC ID 1000
+[2026-02-20 06:26:59] [INFO] Customer already imported: BC ID 999
+[2026-02-20 06:26:59] [INFO] Customer already imported: BC ID 998
+[2026-02-20 06:26:59] [INFO] Customer already imported: BC ID 997
+[2026-02-20 06:26:59] [INFO] Customer already imported: BC ID 996
+[2026-02-20 06:26:59] [INFO] Customer already imported: BC ID 995
+[2026-02-20 06:26:59] [ERROR] Execption error - Shopify API Error (422): {"errors":{"email":["has already been taken"]}} - BC id=994 -- Email: Donna@drkristiansen.com
+[2026-02-20 06:26:59] [INFO] Customer already imported: BC ID 993
+[2026-02-20 06:26:59] [INFO] Customer already imported: BC ID 992
+[2026-02-20 06:26:59] [INFO] Customer already imported: BC ID 991
+[2026-02-20 06:26:59] [INFO] Customer already imported: BC ID 990
+[2026-02-20 06:27:00] [ERROR] Execption error - Shopify API Error (422): {"errors":{"email":["has already been taken"]}} - BC id=989 -- Email: jscaplen@wm.com
+[2026-02-20 06:27:00] [INFO] Customer already imported: BC ID 988
+[2026-02-20 06:27:00] [INFO] Customer already imported: BC ID 987
+[2026-02-20 06:27:00] [INFO] Customer already imported: BC ID 986
+[2026-02-20 06:27:00] [INFO] Customer already imported: BC ID 985
+[2026-02-20 06:27:00] [INFO] Customer already imported: BC ID 984
+[2026-02-20 06:27:00] [INFO] Customer already imported: BC ID 983
+[2026-02-20 06:27:00] [INFO] Customer already imported: BC ID 982
+[2026-02-20 06:27:00] [ERROR] Execption error - Shopify API Error (422): {"errors":{"email":["has already been taken"]}} - BC id=981 -- Email: hcarman@anshlabs.com
+[2026-02-20 06:27:00] [INFO] Customer already imported: BC ID 980
+[2026-02-20 06:27:00] [INFO] Customer already imported: BC ID 979
+[2026-02-20 06:27:01] [ERROR] Execption error - Shopify API Error (422): {"errors":{"email":["has already been taken"]}} - BC id=978 -- Email: isabel.campo.kdrp@gmail.com
+[2026-02-20 06:27:01] [INFO] Customer already imported: BC ID 977
+[2026-02-20 06:27:01] [INFO] Customer already imported: BC ID 976
+[2026-02-20 06:27:01] [INFO] Customer already imported: BC ID 975
+[2026-02-20 06:27:01] [INFO] Customer already imported: BC ID 974
+[2026-02-20 06:27:01] [INFO] Customer already imported: BC ID 973
+[2026-02-20 06:27:01] [INFO] Customer already imported: BC ID 972
+[2026-02-20 06:27:01] [INFO] Customer already imported: BC ID 971
+[2026-02-20 06:27:01] [INFO] Customer already imported: BC ID 970
+[2026-02-20 06:27:01] [INFO] Customer already imported: BC ID 969
+[2026-02-20 06:27:01] [INFO] Customer already imported: BC ID 968
+[2026-02-20 06:27:01] [INFO] Customer already imported: BC ID 967
+[2026-02-20 06:27:01] [INFO] Customer already imported: BC ID 966
+[2026-02-20 06:27:01] [INFO] Customer already imported: BC ID 965
+[2026-02-20 06:27:01] [INFO] Customer already imported: BC ID 964
+[2026-02-20 06:27:01] [INFO] Customer already imported: BC ID 963
+[2026-02-20 06:27:01] [INFO] Customer already imported: BC ID 962
+[2026-02-20 06:27:04] [ERROR] Execption error - Shopify API Error (422): {"errors":{"province":["is invalid"]}} - BC id=961 -- Email: biotechpro.service@gmail.com
+[2026-02-20 06:27:04] [INFO] Customer already imported: BC ID 960
+[2026-02-20 06:27:04] [INFO] Customer already imported: BC ID 959
+[2026-02-20 06:27:04] [INFO] Customer already imported: BC ID 958
+[2026-02-20 06:27:04] [INFO] Customer already imported: BC ID 957
+[2026-02-20 06:27:04] [INFO] Customer already imported: BC ID 956
+[2026-02-20 06:27:04] [INFO] Customer already imported: BC ID 955
+[2026-02-20 06:27:04] [INFO] Customer already imported: BC ID 954
+[2026-02-20 06:27:04] [INFO] Customer already imported: BC ID 953
+[2026-02-20 06:27:04] [INFO] Customer already imported: BC ID 952
+[2026-02-20 06:27:04] [INFO] Customer already imported: BC ID 951
+[2026-02-20 06:27:04] [INFO] Customer already imported: BC ID 950
+[2026-02-20 06:27:04] [INFO] Customer already imported: BC ID 949
+[2026-02-20 06:27:04] [INFO] Customer already imported: BC ID 948
+[2026-02-20 06:27:04] [INFO] Customer already imported: BC ID 947
+[2026-02-20 06:27:04] [INFO] Customer already imported: BC ID 946
+[2026-02-20 06:27:04] [INFO] Customer already imported: BC ID 945
+[2026-02-20 06:27:04] [INFO] Customer already imported: BC ID 944
+[2026-02-20 06:27:04] [INFO] Customer already imported: BC ID 943
+[2026-02-20 06:27:04] [INFO] Customer already imported: BC ID 942
+[2026-02-20 06:27:04] [INFO] Customer already imported: BC ID 941
+[2026-02-20 06:27:04] [INFO] Customer already imported: BC ID 940
+[2026-02-20 06:27:04] [INFO] Customer already imported: BC ID 939
+[2026-02-20 06:27:04] [INFO] Customer already imported: BC ID 938
+[2026-02-20 06:27:04] [INFO] Customer already imported: BC ID 937
+[2026-02-20 06:27:04] [INFO] Customer already imported: BC ID 936
+[2026-02-20 06:27:04] [INFO] Customer already imported: BC ID 935
+[2026-02-20 06:27:04] [INFO] Customer already imported: BC ID 934
+[2026-02-20 06:27:04] [INFO] Customer already imported: BC ID 933
+[2026-02-20 06:27:04] [INFO] Customer already imported: BC ID 932
+[2026-02-20 06:27:04] [INFO] Customer already imported: BC ID 931
+[2026-02-20 06:27:04] [INFO] Customer already imported: BC ID 930
+[2026-02-20 06:27:04] [INFO] Customer already imported: BC ID 929
+[2026-02-20 06:27:04] [INFO] Customer already imported: BC ID 928
+[2026-02-20 06:27:04] [ERROR] Execption error - Shopify API Error (422): {"errors":{"email":["has already been taken"]}} - BC id=927 -- Email: pharmacy@southernspecialty.org
+[2026-02-20 06:27:04] [INFO] Customer already imported: BC ID 926
+[2026-02-20 06:27:04] [INFO] Customer already imported: BC ID 925
+[2026-02-20 06:27:04] [INFO] Customer already imported: BC ID 924
+[2026-02-20 06:27:04] [INFO] Customer already imported: BC ID 923
+[2026-02-20 06:27:04] [INFO] Customer already imported: BC ID 922
+[2026-02-20 06:27:09] [INFO] Customer been created - Shopidy ID - 9985200095546 - BC id=921
+[2026-02-20 06:27:09] [INFO] Customer already imported: BC ID 920
+[2026-02-20 06:27:09] [INFO] Customer already imported: BC ID 919
+[2026-02-20 06:27:09] [INFO] Customer already imported: BC ID 918
+[2026-02-20 06:27:09] [INFO] Customer already imported: BC ID 917
+[2026-02-20 06:27:09] [INFO] Customer already imported: BC ID 916
+[2026-02-20 06:27:09] [INFO] Customer already imported: BC ID 915
+[2026-02-20 06:27:09] [INFO] Customer already imported: BC ID 914
+[2026-02-20 06:27:09] [INFO] Customer already imported: BC ID 913
+[2026-02-20 06:27:09] [INFO] Customer already imported: BC ID 912
+[2026-02-20 06:27:09] [INFO] Customer already imported: BC ID 911
+[2026-02-20 06:27:09] [INFO] Customer already imported: BC ID 910
+[2026-02-20 06:27:09] [INFO] Customer already imported: BC ID 909
+[2026-02-20 06:27:15] [INFO] Customer been created - Shopidy ID - 9985200161082 - BC id=908
+[2026-02-20 06:27:15] [INFO] Customer already imported: BC ID 907
+[2026-02-20 06:27:15] [INFO] Customer already imported: BC ID 906
+[2026-02-20 06:27:15] [INFO] Customer already imported: BC ID 905
+[2026-02-20 06:27:15] [INFO] Customer already imported: BC ID 904
+[2026-02-20 06:27:15] [INFO] Customer already imported: BC ID 903
+[2026-02-20 06:27:15] [INFO] Customer already imported: BC ID 902
+[2026-02-20 06:27:16] [ERROR] Execption error - Shopify API Error (422): {"errors":{"email":["has already been taken"]}} - BC id=901 -- Email: Astornut74@yahoo.com
+[2026-02-20 06:27:16] [INFO] Customer already imported: BC ID 900
+[2026-02-20 06:27:16] [INFO] Customer already imported: BC ID 899
+[2026-02-20 06:27:16] [INFO] Customer already imported: BC ID 898
+[2026-02-20 06:27:16] [ERROR] Execption error - Shopify API Error (422): {"errors":{"email":["has already been taken"]}} - BC id=897 -- Email: tnickleski@rfcity.org
+[2026-02-20 06:27:16] [INFO] Customer already imported: BC ID 896
+[2026-02-20 06:27:16] [INFO] Customer already imported: BC ID 895
+[2026-02-20 06:27:16] [INFO] Customer already imported: BC ID 894
+[2026-02-20 06:27:16] [INFO] Customer already imported: BC ID 893
+[2026-02-20 06:27:16] [INFO] Customer already imported: BC ID 892
+[2026-02-20 06:27:16] [INFO] Customer already imported: BC ID 891
+[2026-02-20 06:27:16] [INFO] Customer already imported: BC ID 890
+[2026-02-20 06:27:16] [INFO] Customer already imported: BC ID 889
+[2026-02-20 06:27:21] [INFO] Customer been created - Shopidy ID - 9985200259386 - BC id=888
+[2026-02-20 06:27:21] [INFO] Customer already imported: BC ID 887
+[2026-02-20 06:27:21] [INFO] Customer already imported: BC ID 886
+[2026-02-20 06:27:21] [INFO] Customer already imported: BC ID 885
+[2026-02-20 06:27:21] [INFO] Customer already imported: BC ID 884
+[2026-02-20 06:27:21] [INFO] Customer already imported: BC ID 883
+[2026-02-20 06:27:21] [INFO] Customer already imported: BC ID 882
+[2026-02-20 06:27:21] [ERROR] Execption error - Shopify API Error (422): {"errors":{"email":["has already been taken"]}} - BC id=881 -- Email: laurenu@jrsalesinc.com
+[2026-02-20 06:27:21] [INFO] Customer already imported: BC ID 880
+[2026-02-20 06:27:21] [INFO] Customer already imported: BC ID 879
+[2026-02-20 06:27:22] [ERROR] Execption error - Shopify API Error (422): {"errors":{"email":["has already been taken"]}} - BC id=878 -- Email: mary@rinktec.com
+[2026-02-20 06:27:22] [INFO] Customer already imported: BC ID 877
+[2026-02-20 06:27:22] [INFO] Customer already imported: BC ID 876
+[2026-02-20 06:27:22] [INFO] Customer already imported: BC ID 875
+[2026-02-20 06:27:22] [INFO] Customer already imported: BC ID 874
+[2026-02-20 06:27:22] [INFO] Customer already imported: BC ID 873
+[2026-02-20 06:27:22] [INFO] Customer already imported: BC ID 872
+[2026-02-20 06:27:22] [INFO] Customer already imported: BC ID 871
+[2026-02-20 06:27:22] [ERROR] Execption error - Shopify API Error (422): {"errors":{"email":["has already been taken"]}} - BC id=870 -- Email: dappen@scadaware.com
+[2026-02-20 06:27:22] [INFO] Customer already imported: BC ID 869
+[2026-02-20 06:27:22] [INFO] Customer already imported: BC ID 868
+[2026-02-20 06:27:22] [INFO] Customer already imported: BC ID 867
+[2026-02-20 06:27:22] [INFO] Customer already imported: BC ID 866
+[2026-02-20 06:27:22] [INFO] Customer already imported: BC ID 865
+[2026-02-20 06:27:22] [INFO] Customer already imported: BC ID 864
+[2026-02-20 06:27:22] [INFO] Customer already imported: BC ID 863
+[2026-02-20 06:27:22] [INFO] Customer already imported: BC ID 862
+[2026-02-20 06:27:22] [INFO] Customer already imported: BC ID 861
+[2026-02-20 06:27:22] [INFO] Customer already imported: BC ID 860
+[2026-02-20 06:27:22] [INFO] Customer already imported: BC ID 859
+[2026-02-20 06:27:22] [INFO] Customer already imported: BC ID 858
+[2026-02-20 06:27:22] [INFO] Customer already imported: BC ID 857
+[2026-02-20 06:27:22] [INFO] Customer already imported: BC ID 856
+[2026-02-20 06:27:23] [ERROR] Execption error - Shopify API Error (422): {"errors":{"email":["has already been taken"]}} - BC id=855 -- Email: stainless@earthlink.net
+[2026-02-20 06:27:23] [INFO] Customer already imported: BC ID 854
+[2026-02-20 06:27:23] [INFO] Customer already imported: BC ID 853
+[2026-02-20 06:27:23] [INFO] Customer already imported: BC ID 852
+[2026-02-20 06:27:23] [INFO] Customer already imported: BC ID 851
+[2026-02-20 06:27:23] [INFO] Customer already imported: BC ID 850
+[2026-02-20 06:27:23] [ERROR] Execption error - Shopify API Error (422): {"errors":{"email":["has already been taken"]}} - BC id=849 -- Email: Azin.salehilorestani@genomics.eurofinsus.com
+[2026-02-20 06:27:23] [INFO] Customer already imported: BC ID 848
+[2026-02-20 06:27:23] [INFO] Customer already imported: BC ID 847
+[2026-02-20 06:27:23] [INFO] Customer already imported: BC ID 846
+[2026-02-20 06:27:23] [INFO] Customer already imported: BC ID 845
+[2026-02-20 06:27:23] [INFO] Customer already imported: BC ID 844
+[2026-02-20 06:27:23] [ERROR] Execption error - Shopify API Error (422): {"errors":{"email":["has already been taken"]}} - BC id=843 -- Email: rwittenzellner@rhwhite.com
+[2026-02-20 06:27:26] [ERROR] Execption error - Shopify API Error (422): {"errors":{"province":["is invalid"]}} - BC id=842 -- Email: ramy.saleh@advatechs.com
+[2026-02-20 06:27:26] [INFO] Customer already imported: BC ID 841
+[2026-02-20 06:27:26] [INFO] Customer already imported: BC ID 840
+[2026-02-20 06:27:26] [INFO] Customer already imported: BC ID 839
+[2026-02-20 06:27:26] [INFO] Customer already imported: BC ID 838
+[2026-02-20 06:27:26] [INFO] Customer already imported: BC ID 837
+[2026-02-20 06:27:26] [INFO] Customer already imported: BC ID 836
+[2026-02-20 06:27:26] [INFO] Customer already imported: BC ID 835
+[2026-02-20 06:27:26] [INFO] Customer already imported: BC ID 834
+[2026-02-20 06:27:26] [INFO] Customer already imported: BC ID 833
+[2026-02-20 06:27:26] [INFO] Customer already imported: BC ID 832
+[2026-02-20 06:27:26] [INFO] Customer already imported: BC ID 831
+[2026-02-20 06:27:26] [INFO] Customer already imported: BC ID 830
+[2026-02-20 06:27:26] [INFO] Customer already imported: BC ID 829
+[2026-02-20 06:27:26] [INFO] Customer already imported: BC ID 828
+[2026-02-20 06:27:26] [INFO] Customer already imported: BC ID 827
+[2026-02-20 06:27:26] [INFO] Customer already imported: BC ID 826
+[2026-02-20 06:27:26] [INFO] Customer already imported: BC ID 825
+[2026-02-20 06:27:26] [INFO] Customer already imported: BC ID 824
+[2026-02-20 06:27:26] [INFO] Customer already imported: BC ID 823
+[2026-02-20 06:27:26] [INFO] Customer already imported: BC ID 822
+[2026-02-20 06:27:26] [INFO] Customer already imported: BC ID 821
+[2026-02-20 06:27:26] [INFO] Customer already imported: BC ID 820
+[2026-02-20 06:27:26] [INFO] Customer already imported: BC ID 819
+[2026-02-20 06:27:26] [INFO] Customer already imported: BC ID 818
+[2026-02-20 06:27:26] [INFO] Customer already imported: BC ID 817
+[2026-02-20 06:27:26] [INFO] Customer already imported: BC ID 816
+[2026-02-20 06:27:26] [INFO] Customer already imported: BC ID 815
+[2026-02-20 06:27:27] [ERROR] Execption error - Shopify API Error (422): {"errors":{"email":["has already been taken"]}} - BC id=814 -- Email: gseaman@oandmsolutions.com
+[2026-02-20 06:27:27] [INFO] Customer already imported: BC ID 813
+[2026-02-20 06:27:27] [INFO] Customer already imported: BC ID 812
+[2026-02-20 06:27:27] [INFO] Customer already imported: BC ID 811
+[2026-02-20 06:27:27] [INFO] Customer already imported: BC ID 810
+[2026-02-20 06:27:27] [INFO] Customer already imported: BC ID 809
+[2026-02-20 06:27:27] [INFO] Customer already imported: BC ID 808
+[2026-02-20 06:27:27] [INFO] Customer already imported: BC ID 807
+[2026-02-20 06:27:31] [INFO] Customer been created - Shopidy ID - 9985200718138 - BC id=806
+[2026-02-20 06:27:31] [INFO] Customer already imported: BC ID 805
+[2026-02-20 06:27:31] [INFO] Customer already imported: BC ID 804
+[2026-02-20 06:27:31] [INFO] Customer already imported: BC ID 803
+[2026-02-20 06:27:31] [INFO] Customer already imported: BC ID 802
+[2026-02-20 06:27:31] [INFO] Customer already imported: BC ID 801
+[2026-02-20 06:27:31] [INFO] Customer already imported: BC ID 800
+[2026-02-20 06:27:31] [INFO] Customer already imported: BC ID 799
+[2026-02-20 06:27:31] [INFO] Customer already imported: BC ID 798
+[2026-02-20 06:27:31] [INFO] Customer already imported: BC ID 797
+[2026-02-20 06:27:31] [INFO] Customer already imported: BC ID 796
+[2026-02-20 06:27:31] [INFO] Customer already imported: BC ID 795
+[2026-02-20 06:27:31] [INFO] Customer already imported: BC ID 794
+[2026-02-20 06:27:31] [INFO] Customer already imported: BC ID 793
+[2026-02-20 06:27:31] [INFO] Customer already imported: BC ID 792
+[2026-02-20 06:27:31] [INFO] Customer already imported: BC ID 791
+[2026-02-20 06:27:31] [INFO] Customer already imported: BC ID 790
+[2026-02-20 06:27:31] [INFO] Customer already imported: BC ID 789
+[2026-02-20 06:27:31] [INFO] Customer already imported: BC ID 788
+[2026-02-20 06:27:31] [INFO] Customer already imported: BC ID 787
+[2026-02-20 06:27:31] [INFO] Customer already imported: BC ID 786
+[2026-02-20 06:27:31] [INFO] Customer already imported: BC ID 785
+[2026-02-20 06:27:31] [INFO] Customer already imported: BC ID 784
+[2026-02-20 06:27:31] [INFO] Customer already imported: BC ID 783
+[2026-02-20 06:27:31] [INFO] Customer already imported: BC ID 782
+[2026-02-20 06:27:31] [INFO] Customer already imported: BC ID 781
+[2026-02-20 06:27:31] [ERROR] Execption error - Shopify API Error (422): {"errors":{"email":["has already been taken"]}} - BC id=780 -- Email: acgoens@gmail.com
+[2026-02-20 06:27:31] [INFO] Customer already imported: BC ID 779
+[2026-02-20 06:27:31] [INFO] Customer already imported: BC ID 778
+[2026-02-20 06:27:32] [ERROR] Execption error - Shopify API Error (422): {"errors":{"email":["has already been taken"]}} - BC id=777 -- Email: rgoodman@cityofwhitefish.gov
+[2026-02-20 06:27:32] [INFO] Customer already imported: BC ID 776
+[2026-02-20 06:27:32] [INFO] Customer already imported: BC ID 775
+[2026-02-20 06:27:32] [INFO] Customer already imported: BC ID 774
+[2026-02-20 06:27:32] [INFO] Customer already imported: BC ID 773
+[2026-02-20 06:27:32] [INFO] Customer already imported: BC ID 772
+[2026-02-20 06:27:32] [INFO] Customer already imported: BC ID 771
+[2026-02-20 06:27:32] [INFO] Customer already imported: BC ID 770
+[2026-02-20 06:27:32] [ERROR] Execption error - Shopify API Error (422): {"errors":{"email":["has already been taken"]}} - BC id=769 -- Email: sma.environmental@gmail.com
+[2026-02-20 06:27:32] [INFO] Customer already imported: BC ID 768
+[2026-02-20 06:27:33] [ERROR] Execption error - Shopify API Error (422): {"errors":{"email":["has already been taken"]}} - BC id=767 -- Email: justin@ne-solutions.net
+[2026-02-20 06:27:33] [INFO] Customer already imported: BC ID 766
+[2026-02-20 06:27:33] [INFO] Customer already imported: BC ID 765
+[2026-02-20 06:27:33] [INFO] Customer already imported: BC ID 764
+[2026-02-20 06:27:33] [INFO] Customer already imported: BC ID 763
+[2026-02-20 06:27:33] [INFO] Customer already imported: BC ID 762
+[2026-02-20 06:27:33] [INFO] Customer already imported: BC ID 761
+[2026-02-20 06:27:33] [INFO] Customer already imported: BC ID 760
+[2026-02-20 06:27:33] [INFO] Customer already imported: BC ID 759
+[2026-02-20 06:27:33] [INFO] Customer already imported: BC ID 758
+[2026-02-20 06:27:33] [INFO] Customer already imported: BC ID 757
+[2026-02-20 06:27:33] [INFO] Customer already imported: BC ID 756
+[2026-02-20 06:27:33] [INFO] Customer already imported: BC ID 755
+[2026-02-20 06:27:33] [INFO] Customer already imported: BC ID 754
+[2026-02-20 06:27:33] [INFO] Customer already imported: BC ID 753
+[2026-02-20 06:27:33] [INFO] Customer already imported: BC ID 752
+[2026-02-20 06:27:41] [INFO] Customer been created - Shopidy ID - 9985200947514 - BC id=751
+[2026-02-20 06:27:41] [ERROR] Execption error - Shopify API Error (422): {"errors":{"email":["has already been taken"]}} - BC id=750 -- Email: craig.condon@maine.edu
+[2026-02-20 06:27:41] [INFO] Customer already imported: BC ID 749
+[2026-02-20 06:27:41] [INFO] Customer already imported: BC ID 748
+[2026-02-20 06:27:41] [INFO] Customer already imported: BC ID 747
+[2026-02-20 06:27:41] [INFO] Customer already imported: BC ID 746
+[2026-02-20 06:27:41] [INFO] Customer already imported: BC ID 745
+[2026-02-20 06:27:41] [INFO] Customer already imported: BC ID 744
+[2026-02-20 06:27:41] [INFO] Customer already imported: BC ID 743
+[2026-02-20 06:27:42] [ERROR] Execption error - Shopify API Error (422): {"errors":{"email":["has already been taken"]}} - BC id=742 -- Email: gpettorossi@clearford.com
+[2026-02-20 06:27:42] [INFO] Customer already imported: BC ID 741
+[2026-02-20 06:27:42] [INFO] Customer already imported: BC ID 740
+[2026-02-20 06:27:42] [INFO] Customer already imported: BC ID 739
+[2026-02-20 06:27:42] [INFO] Customer already imported: BC ID 738
+[2026-02-20 06:27:42] [INFO] Customer already imported: BC ID 737
+[2026-02-20 06:27:42] [INFO] Customer already imported: BC ID 736
+[2026-02-20 06:27:42] [ERROR] Execption error - Shopify API Error (422): {"errors":{"email":["has already been taken"]}} - BC id=735 -- Email: danielsfarm2017@gmail.com
+[2026-02-20 06:27:42] [INFO] Customer already imported: BC ID 734
+[2026-02-20 06:27:42] [INFO] Customer already imported: BC ID 733
+[2026-02-20 06:27:42] [INFO] Customer already imported: BC ID 732
+[2026-02-20 06:27:42] [INFO] Customer already imported: BC ID 731
+[2026-02-20 06:27:42] [INFO] Customer already imported: BC ID 730
+[2026-02-20 06:27:46] [INFO] Customer been created - Shopidy ID - 9985201275194 - BC id=729
+[2026-02-20 06:27:46] [INFO] Customer already imported: BC ID 728
+[2026-02-20 06:27:46] [INFO] Customer already imported: BC ID 727
+[2026-02-20 06:27:46] [INFO] Customer already imported: BC ID 726
+[2026-02-20 06:27:46] [INFO] Customer already imported: BC ID 725
+[2026-02-20 06:27:46] [INFO] Customer already imported: BC ID 724
+[2026-02-20 06:27:46] [INFO] Customer already imported: BC ID 723
+[2026-02-20 06:27:51] [INFO] Customer been created - Shopidy ID - 9985201340730 - BC id=722
+[2026-02-20 06:27:51] [INFO] Customer already imported: BC ID 721
+[2026-02-20 06:27:51] [INFO] Customer already imported: BC ID 720
+[2026-02-20 06:27:55] [INFO] Customer been created - Shopidy ID - 9985201471802 - BC id=719
+[2026-02-20 06:27:55] [INFO] Customer already imported: BC ID 718
+[2026-02-20 06:27:55] [INFO] Customer already imported: BC ID 717
+[2026-02-20 06:27:55] [INFO] Customer already imported: BC ID 716
+[2026-02-20 06:27:55] [ERROR] Execption error - Shopify API Error (422): {"errors":{"email":["has already been taken"]}} - BC id=715 -- Email: DrBobHill007@gmail.com
+[2026-02-20 06:27:55] [INFO] Customer already imported: BC ID 714
+[2026-02-20 06:27:55] [INFO] Customer already imported: BC ID 713
+[2026-02-20 06:27:55] [INFO] Customer already imported: BC ID 712
+[2026-02-20 06:27:55] [INFO] Customer already imported: BC ID 711
+[2026-02-20 06:27:55] [INFO] Customer already imported: BC ID 710
+[2026-02-20 06:27:55] [INFO] Customer already imported: BC ID 709
+[2026-02-20 06:27:55] [INFO] Customer already imported: BC ID 708
+[2026-02-20 06:27:55] [INFO] Customer already imported: BC ID 707
+[2026-02-20 06:27:55] [INFO] Customer already imported: BC ID 706
+[2026-02-20 06:27:59] [INFO] Customer been created - Shopidy ID - 9985201635642 - BC id=705
+[2026-02-20 06:27:59] [INFO] Customer already imported: BC ID 704
+[2026-02-20 06:27:59] [INFO] Customer already imported: BC ID 703
+[2026-02-20 06:27:59] [INFO] Customer already imported: BC ID 702
+[2026-02-20 06:28:00] [ERROR] Execption error - Shopify API Error (422): {"errors":{"email":["has already been taken"]}} - BC id=701 -- Email: nysmerc@health.ny.gov
+[2026-02-20 06:28:00] [INFO] Customer already imported: BC ID 700
+[2026-02-20 06:28:00] [INFO] Customer already imported: BC ID 699
+[2026-02-20 06:28:00] [INFO] Customer already imported: BC ID 698
+[2026-02-20 06:28:00] [INFO] Customer already imported: BC ID 697
+[2026-02-20 06:28:00] [INFO] Customer already imported: BC ID 696
+[2026-02-20 06:28:00] [INFO] Customer already imported: BC ID 695
+[2026-02-20 06:28:00] [INFO] Customer already imported: BC ID 694
+[2026-02-20 06:28:00] [INFO] Customer already imported: BC ID 693
+[2026-02-20 06:28:00] [INFO] Customer already imported: BC ID 692
+[2026-02-20 06:28:00] [INFO] Customer already imported: BC ID 691
+[2026-02-20 06:28:00] [INFO] Customer already imported: BC ID 690
+[2026-02-20 06:28:00] [INFO] Customer already imported: BC ID 689
+[2026-02-20 06:28:00] [INFO] Customer already imported: BC ID 688
+[2026-02-20 06:28:00] [INFO] Customer already imported: BC ID 687
+[2026-02-20 06:28:00] [INFO] Customer already imported: BC ID 686
+[2026-02-20 06:28:00] [INFO] Customer already imported: BC ID 685
+[2026-02-20 06:28:00] [INFO] Customer already imported: BC ID 684
+[2026-02-20 06:28:00] [INFO] Customer already imported: BC ID 683
+[2026-02-20 06:28:00] [INFO] Customer already imported: BC ID 681
+[2026-02-20 06:28:00] [INFO] Customer already imported: BC ID 680
+[2026-02-20 06:28:00] [INFO] Customer already imported: BC ID 679
+[2026-02-20 06:28:00] [INFO] Customer already imported: BC ID 678
+[2026-02-20 06:28:00] [INFO] Customer already imported: BC ID 677
+[2026-02-20 06:28:00] [INFO] Customer already imported: BC ID 676
+[2026-02-20 06:28:00] [INFO] Customer already imported: BC ID 675
+[2026-02-20 06:28:00] [INFO] Customer already imported: BC ID 674
+[2026-02-20 06:28:00] [INFO] Customer already imported: BC ID 673
+[2026-02-20 06:28:00] [INFO] Customer already imported: BC ID 672
+[2026-02-20 06:28:00] [INFO] Customer already imported: BC ID 671
+[2026-02-20 06:28:00] [INFO] Customer already imported: BC ID 670
+[2026-02-20 06:28:00] [INFO] Customer already imported: BC ID 669
+[2026-02-20 06:28:00] [INFO] Customer already imported: BC ID 668
+[2026-02-20 06:28:00] [INFO] Customer already imported: BC ID 667
+[2026-02-20 06:28:00] [INFO] Customer already imported: BC ID 666
+[2026-02-20 06:28:00] [INFO] Customer already imported: BC ID 665
+[2026-02-20 06:28:00] [INFO] Customer already imported: BC ID 663
+[2026-02-20 06:28:00] [INFO] Customer already imported: BC ID 662
+[2026-02-20 06:28:00] [ERROR] Execption error - Shopify API Error (422): {"errors":{"email":["has already been taken"]}} - BC id=661 -- Email: joel@eastgulllake.us
+[2026-02-20 06:28:00] [INFO] Customer already imported: BC ID 660
+[2026-02-20 06:28:01] [ERROR] Execption error - Shopify API Error (422): {"errors":{"email":["has already been taken"]}} - BC id=659 -- Email: patrick.tuohy@veolia.com
+[2026-02-20 06:28:01] [INFO] Customer already imported: BC ID 658
+[2026-02-20 06:28:01] [INFO] Customer already imported: BC ID 657
+[2026-02-20 06:28:01] [INFO] Customer already imported: BC ID 656
+[2026-02-20 06:28:01] [INFO] Customer already imported: BC ID 655
+[2026-02-20 06:28:01] [INFO] Customer already imported: BC ID 654
+[2026-02-20 06:28:01] [INFO] Customer already imported: BC ID 653
+[2026-02-20 06:28:01] [INFO] Customer already imported: BC ID 652
+[2026-02-20 06:28:01] [INFO] Customer already imported: BC ID 651
+[2026-02-20 06:28:01] [INFO] Customer already imported: BC ID 650
+[2026-02-20 06:28:01] [INFO] Customer already imported: BC ID 649
+[2026-02-20 06:28:01] [INFO] Customer already imported: BC ID 648
+[2026-02-20 06:28:01] [INFO] Customer already imported: BC ID 647
+[2026-02-20 06:28:01] [INFO] Customer already imported: BC ID 646
+[2026-02-20 06:28:01] [INFO] Customer already imported: BC ID 645
+[2026-02-20 06:28:01] [INFO] Customer already imported: BC ID 644
+[2026-02-20 06:28:01] [INFO] Customer already imported: BC ID 643
+[2026-02-20 06:28:01] [INFO] Customer already imported: BC ID 642
+[2026-02-20 06:28:01] [INFO] Customer already imported: BC ID 641
+[2026-02-20 06:28:01] [INFO] Customer already imported: BC ID 640
+[2026-02-20 06:28:01] [INFO] Customer already imported: BC ID 639
+[2026-02-20 06:28:01] [INFO] Customer already imported: BC ID 638
+[2026-02-20 06:28:01] [INFO] Customer already imported: BC ID 637
+[2026-02-20 06:28:01] [INFO] Customer already imported: BC ID 636
+[2026-02-20 06:28:01] [INFO] Customer already imported: BC ID 635
+[2026-02-20 06:28:01] [INFO] Customer already imported: BC ID 634
+[2026-02-20 06:28:01] [INFO] Customer already imported: BC ID 633
+[2026-02-20 06:28:01] [INFO] Customer already imported: BC ID 632
+[2026-02-20 06:28:01] [INFO] Customer already imported: BC ID 631
+[2026-02-20 06:28:01] [INFO] Customer already imported: BC ID 630
+[2026-02-20 06:28:01] [INFO] Customer already imported: BC ID 629
+[2026-02-20 06:28:01] [INFO] Customer already imported: BC ID 628
+[2026-02-20 06:28:01] [INFO] Customer already imported: BC ID 627
+[2026-02-20 06:28:01] [INFO] Customer already imported: BC ID 626
+[2026-02-20 06:28:01] [INFO] Customer already imported: BC ID 625
+[2026-02-20 06:28:01] [INFO] Customer already imported: BC ID 624
+[2026-02-20 06:28:01] [INFO] Customer already imported: BC ID 623
+[2026-02-20 06:28:01] [INFO] Customer already imported: BC ID 622
+[2026-02-20 06:28:02] [ERROR] Execption error - Shopify API Error (422): {"errors":{"email":["has already been taken"]}} - BC id=621 -- Email: csammcw@gmail.com
+[2026-02-20 06:28:02] [INFO] Customer already imported: BC ID 620
+[2026-02-20 06:28:02] [INFO] Customer already imported: BC ID 619
+[2026-02-20 06:28:02] [INFO] Customer already imported: BC ID 618
+[2026-02-20 06:28:02] [INFO] Customer already imported: BC ID 617
+[2026-02-20 06:28:02] [INFO] Customer already imported: BC ID 616
+[2026-02-20 06:28:02] [INFO] Customer already imported: BC ID 615
+[2026-02-20 06:28:02] [INFO] Customer already imported: BC ID 614
+[2026-02-20 06:28:02] [INFO] Customer already imported: BC ID 613
+[2026-02-20 06:28:02] [INFO] Customer already imported: BC ID 612
+[2026-02-20 06:28:02] [INFO] Customer already imported: BC ID 611
+[2026-02-20 06:28:02] [INFO] Customer already imported: BC ID 610
+[2026-02-20 06:28:02] [INFO] Customer already imported: BC ID 609
+[2026-02-20 06:28:02] [INFO] Customer already imported: BC ID 608
+[2026-02-20 06:28:02] [INFO] Customer already imported: BC ID 607
+[2026-02-20 06:28:02] [INFO] Customer already imported: BC ID 606
+[2026-02-20 06:28:02] [INFO] Customer already imported: BC ID 605
+[2026-02-20 06:28:02] [INFO] Customer already imported: BC ID 604
+[2026-02-20 06:28:06] [INFO] Customer been created - Shopidy ID - 9985201996090 - BC id=603
+[2026-02-20 06:28:06] [INFO] Customer already imported: BC ID 602
+[2026-02-20 06:28:06] [INFO] Customer already imported: BC ID 601
+[2026-02-20 06:28:06] [INFO] Customer already imported: BC ID 600
+[2026-02-20 06:28:06] [INFO] Customer already imported: BC ID 599
+[2026-02-20 06:28:06] [INFO] Customer already imported: BC ID 598
+[2026-02-20 06:28:06] [INFO] Customer already imported: BC ID 597
+[2026-02-20 06:28:06] [INFO] Customer already imported: BC ID 596
+[2026-02-20 06:28:06] [INFO] Customer already imported: BC ID 595
+[2026-02-20 06:28:06] [INFO] Customer already imported: BC ID 594
+[2026-02-20 06:28:06] [INFO] Customer already imported: BC ID 593
+[2026-02-20 06:28:06] [INFO] Customer already imported: BC ID 591
+[2026-02-20 06:28:06] [INFO] Customer already imported: BC ID 590
+[2026-02-20 06:28:06] [INFO] Customer already imported: BC ID 589
+[2026-02-20 06:28:06] [INFO] Customer already imported: BC ID 588
+[2026-02-20 06:28:06] [INFO] Customer already imported: BC ID 587
+[2026-02-20 06:28:06] [ERROR] Execption error - Shopify API Error (422): {"errors":{"email":["has already been taken"]}} - BC id=586 -- Email: abuchanan@morgantonnc.gov
+[2026-02-20 06:28:06] [INFO] Customer already imported: BC ID 585
+[2026-02-20 06:28:07] [ERROR] Execption error - Shopify API Error (422): {"errors":{"email":["has already been taken"]}} - BC id=584 -- Email: amichaux@sopris.net
+[2026-02-20 06:28:07] [INFO] Customer already imported: BC ID 583
+[2026-02-20 06:28:07] [INFO] Customer already imported: BC ID 582
+[2026-02-20 06:28:07] [INFO] Customer already imported: BC ID 581
+[2026-02-20 06:28:07] [INFO] Customer already imported: BC ID 580
+[2026-02-20 06:28:07] [INFO] Customer already imported: BC ID 579
+[2026-02-20 06:28:07] [INFO] Customer already imported: BC ID 578
+[2026-02-20 06:28:07] [INFO] Customer already imported: BC ID 577
+[2026-02-20 06:28:07] [INFO] Customer already imported: BC ID 576
+[2026-02-20 06:28:07] [INFO] Customer already imported: BC ID 575
+[2026-02-20 06:28:07] [ERROR] Execption error - Shopify API Error (422): {"errors":{"email":["has already been taken"]}} - BC id=574 -- Email: Dakrow801@gmail.com
+[2026-02-20 06:28:07] [INFO] Customer already imported: BC ID 573
+[2026-02-20 06:28:07] [INFO] Customer already imported: BC ID 572
+[2026-02-20 06:28:07] [INFO] Customer already imported: BC ID 571
+[2026-02-20 06:28:07] [INFO] Customer already imported: BC ID 570
+[2026-02-20 06:28:07] [INFO] Customer already imported: BC ID 569
+[2026-02-20 06:28:07] [INFO] Customer already imported: BC ID 568
+[2026-02-20 06:28:07] [INFO] Customer already imported: BC ID 567
+[2026-02-20 06:28:07] [INFO] Customer already imported: BC ID 566
+[2026-02-20 06:28:07] [INFO] Customer already imported: BC ID 565
+[2026-02-20 06:28:08] [ERROR] Execption error - Shopify API Error (422): {"errors":{"email":["has already been taken"]}} - BC id=564 -- Email: cbohlin@Ventasreit.com
+[2026-02-20 06:28:08] [INFO] Customer already imported: BC ID 562
+[2026-02-20 06:28:08] [INFO] Customer already imported: BC ID 561
+[2026-02-20 06:28:08] [INFO] Customer already imported: BC ID 560
+[2026-02-20 06:28:08] [INFO] Customer already imported: BC ID 559
+[2026-02-20 06:28:08] [INFO] Customer already imported: BC ID 558
+[2026-02-20 06:28:08] [INFO] Customer already imported: BC ID 557
+[2026-02-20 06:28:08] [INFO] Customer already imported: BC ID 556
+[2026-02-20 06:28:08] [ERROR] Execption error - Shopify API Error (422): {"errors":{"email":["has already been taken"]}} - BC id=555 -- Email: kelvin.bailey@veolia.com
+[2026-02-20 06:28:08] [INFO] Customer already imported: BC ID 554
+[2026-02-20 06:28:08] [INFO] Customer already imported: BC ID 553
+[2026-02-20 06:28:13] [INFO] Customer been created - Shopidy ID - 9985202323770 - BC id=552
+[2026-02-20 06:28:13] [INFO] Customer already imported: BC ID 551
+[2026-02-20 06:28:13] [INFO] Customer already imported: BC ID 550
+[2026-02-20 06:28:13] [INFO] Customer already imported: BC ID 549
+[2026-02-20 06:28:13] [INFO] Customer already imported: BC ID 548
+[2026-02-20 06:28:13] [INFO] Customer already imported: BC ID 547
+[2026-02-20 06:28:13] [INFO] Customer already imported: BC ID 546
+[2026-02-20 06:28:13] [INFO] Customer already imported: BC ID 545
+[2026-02-20 06:28:13] [ERROR] Execption error - Shopify API Error (422): {"errors":{"email":["has already been taken"]}} - BC id=544 -- Email: hlloucks@waynecountyny.gov
+[2026-02-20 06:28:13] [INFO] Customer already imported: BC ID 543
+[2026-02-20 06:28:13] [INFO] Customer already imported: BC ID 542
+[2026-02-20 06:28:13] [INFO] Customer already imported: BC ID 541
+[2026-02-20 06:28:13] [INFO] Customer already imported: BC ID 540
+[2026-02-20 06:28:13] [INFO] Customer already imported: BC ID 539
+[2026-02-20 06:28:13] [INFO] Customer already imported: BC ID 538
+[2026-02-20 06:28:13] [INFO] Customer already imported: BC ID 537
+[2026-02-20 06:28:13] [INFO] Customer already imported: BC ID 536
+[2026-02-20 06:28:13] [INFO] Customer already imported: BC ID 535
+[2026-02-20 06:28:13] [INFO] Customer already imported: BC ID 534
+[2026-02-20 06:28:13] [INFO] Customer already imported: BC ID 533
+[2026-02-20 06:28:13] [INFO] Customer already imported: BC ID 532
+[2026-02-20 06:28:13] [INFO] Customer already imported: BC ID 531
+[2026-02-20 06:28:13] [INFO] Customer already imported: BC ID 530
+[2026-02-20 06:28:13] [INFO] Customer already imported: BC ID 529
+[2026-02-20 06:28:13] [INFO] Customer already imported: BC ID 528
+[2026-02-20 06:28:14] [ERROR] Execption error - Shopify API Error (422): {"errors":{"email":["has already been taken"]}} - BC id=527 -- Email: jemerick@fs-elliott.com
+[2026-02-20 06:28:14] [INFO] Customer already imported: BC ID 526
+[2026-02-20 06:28:14] [INFO] Customer already imported: BC ID 525
+[2026-02-20 06:28:14] [INFO] Customer already imported: BC ID 524
+[2026-02-20 06:28:14] [INFO] Customer already imported: BC ID 523
+[2026-02-20 06:28:14] [INFO] Customer already imported: BC ID 522
+[2026-02-20 06:28:14] [INFO] Customer already imported: BC ID 521
+[2026-02-20 06:28:14] [ERROR] Execption error - Shopify API Error (422): {"errors":{"email":["has already been taken"]}} - BC id=520 -- Email: paustin@muchlaw.com
+[2026-02-20 06:28:14] [INFO] Customer already imported: BC ID 519
+[2026-02-20 06:28:14] [INFO] Customer already imported: BC ID 518
+[2026-02-20 06:28:14] [INFO] Customer already imported: BC ID 517
+[2026-02-20 06:28:14] [INFO] Customer already imported: BC ID 516
+[2026-02-20 06:28:14] [INFO] Customer already imported: BC ID 515
+[2026-02-20 06:28:14] [INFO] Customer already imported: BC ID 514
+[2026-02-20 06:28:14] [INFO] Customer already imported: BC ID 513
+[2026-02-20 06:28:14] [INFO] Customer already imported: BC ID 512
+[2026-02-20 06:28:14] [INFO] Customer already imported: BC ID 511
+[2026-02-20 06:28:14] [INFO] Customer already imported: BC ID 510
+[2026-02-20 06:28:14] [INFO] Customer already imported: BC ID 509
+[2026-02-20 06:28:14] [INFO] Customer already imported: BC ID 508
+[2026-02-20 06:28:21] [INFO] Customer been created - Shopidy ID - 9985202585914 - BC id=507
+[2026-02-20 06:28:21] [INFO] Customer already imported: BC ID 506
+[2026-02-20 06:28:21] [INFO] Customer already imported: BC ID 505
+[2026-02-20 06:28:21] [INFO] Customer already imported: BC ID 504
+[2026-02-20 06:28:21] [INFO] Customer already imported: BC ID 503
+[2026-02-20 06:28:21] [INFO] Customer already imported: BC ID 502
+[2026-02-20 06:28:21] [INFO] Customer already imported: BC ID 501
+[2026-02-20 06:28:21] [INFO] Customer already imported: BC ID 500
+[2026-02-20 06:28:21] [INFO] Customer already imported: BC ID 499
+[2026-02-20 06:28:21] [INFO] Customer already imported: BC ID 498
+[2026-02-20 06:28:21] [INFO] Customer already imported: BC ID 497
+[2026-02-20 06:28:21] [INFO] Customer already imported: BC ID 496
+[2026-02-20 06:28:21] [INFO] Customer already imported: BC ID 495
+[2026-02-20 06:28:26] [INFO] Customer been created - Shopidy ID - 9985202618682 - BC id=494
+[2026-02-20 06:28:26] [INFO] Customer already imported: BC ID 493
+[2026-02-20 06:28:26] [INFO] Customer already imported: BC ID 492
+[2026-02-20 06:28:26] [INFO] Customer already imported: BC ID 491
+[2026-02-20 06:28:26] [INFO] Customer already imported: BC ID 490
+[2026-02-20 06:28:26] [INFO] Customer already imported: BC ID 489
+[2026-02-20 06:28:26] [INFO] Customer already imported: BC ID 488
+[2026-02-20 06:28:26] [INFO] Customer already imported: BC ID 487
+[2026-02-20 06:28:26] [INFO] Customer already imported: BC ID 486
+[2026-02-20 06:28:26] [INFO] Customer already imported: BC ID 485
+[2026-02-20 06:28:26] [INFO] Customer already imported: BC ID 484
+[2026-02-20 06:28:26] [INFO] Customer already imported: BC ID 483
+[2026-02-20 06:28:26] [INFO] Customer already imported: BC ID 482
+[2026-02-20 06:28:26] [INFO] Customer already imported: BC ID 481
+[2026-02-20 06:28:26] [INFO] Customer already imported: BC ID 480
+[2026-02-20 06:28:26] [INFO] Customer already imported: BC ID 479
+[2026-02-20 06:28:30] [INFO] Customer been created - Shopidy ID - 9985202716986 - BC id=478
+[2026-02-20 06:28:34] [INFO] Customer been created - Shopidy ID - 9985202782522 - BC id=477
+[2026-02-20 06:28:34] [INFO] Customer already imported: BC ID 476
+[2026-02-20 06:28:34] [INFO] Customer already imported: BC ID 475
+[2026-02-20 06:28:34] [INFO] Customer already imported: BC ID 474
+[2026-02-20 06:28:35] [ERROR] Execption error - Shopify API Error (422): {"errors":{"email":["has already been taken"]}} - BC id=473 -- Email: daniel.clark@ergon.com
+[2026-02-20 06:28:35] [INFO] Customer already imported: BC ID 472
+[2026-02-20 06:28:35] [INFO] Customer already imported: BC ID 471
+[2026-02-20 06:28:35] [INFO] Customer already imported: BC ID 470
+[2026-02-20 06:28:35] [INFO] Customer already imported: BC ID 469
+[2026-02-20 06:28:35] [INFO] Customer already imported: BC ID 468
+[2026-02-20 06:28:35] [INFO] Customer already imported: BC ID 467
+[2026-02-20 06:28:35] [INFO] Customer already imported: BC ID 466
+[2026-02-20 06:28:35] [INFO] Customer already imported: BC ID 465
+[2026-02-20 06:28:35] [INFO] Customer already imported: BC ID 464
+[2026-02-20 06:28:35] [INFO] Customer already imported: BC ID 463
+[2026-02-20 06:28:39] [INFO] Customer been created - Shopidy ID - 9985202946362 - BC id=462
+[2026-02-20 06:28:39] [INFO] Customer already imported: BC ID 461
+[2026-02-20 06:28:39] [INFO] Customer already imported: BC ID 460
+[2026-02-20 06:28:39] [INFO] Customer already imported: BC ID 459
+[2026-02-20 06:28:39] [INFO] Customer already imported: BC ID 458
+[2026-02-20 06:28:39] [INFO] Customer already imported: BC ID 457
+[2026-02-20 06:28:39] [INFO] Customer already imported: BC ID 456
+[2026-02-20 06:28:39] [INFO] Customer already imported: BC ID 455
+[2026-02-20 06:28:39] [INFO] Customer already imported: BC ID 454
+[2026-02-20 06:28:39] [INFO] Customer already imported: BC ID 453
+[2026-02-20 06:28:39] [INFO] Customer already imported: BC ID 452
+[2026-02-20 06:28:39] [INFO] Customer already imported: BC ID 451
+[2026-02-20 06:28:40] [ERROR] Execption error - Shopify API Error (422): {"errors":{"email":["has already been taken"]}} - BC id=450 -- Email: briank@altoniowa.us
+[2026-02-20 06:28:40] [INFO] Customer already imported: BC ID 448
+[2026-02-20 06:28:44] [INFO] Customer been created - Shopidy ID - 9985203011898 - BC id=447
+[2026-02-20 06:28:44] [INFO] Customer already imported: BC ID 446
+[2026-02-20 06:28:44] [INFO] Customer already imported: BC ID 445
+[2026-02-20 06:28:44] [INFO] Customer already imported: BC ID 444
+[2026-02-20 06:28:44] [ERROR] Execption error - Shopify API Error (422): {"errors":{"email":["has already been taken"]}} - BC id=443 -- Email: lpc@srcaccess.net
+[2026-02-20 06:28:44] [INFO] Customer already imported: BC ID 442
+[2026-02-20 06:28:44] [INFO] Customer already imported: BC ID 441
+[2026-02-20 06:28:44] [INFO] Customer already imported: BC ID 440
+[2026-02-20 06:28:44] [INFO] Customer already imported: BC ID 439
+[2026-02-20 06:28:44] [INFO] Customer already imported: BC ID 438
+[2026-02-20 06:28:49] [INFO] Customer been created - Shopidy ID - 9985203142970 - BC id=437
+[2026-02-20 06:28:49] [INFO] Customer already imported: BC ID 436
+[2026-02-20 06:28:49] [INFO] Customer already imported: BC ID 435
+[2026-02-20 06:28:49] [ERROR] Execption error - Shopify API Error (422): {"errors":{"email":["has already been taken"]}} - BC id=434 -- Email: pwu@rouxinc.com
+[2026-02-20 06:28:49] [INFO] Customer already imported: BC ID 433
+[2026-02-20 06:28:49] [INFO] Customer already imported: BC ID 432
+[2026-02-20 06:28:49] [INFO] Customer already imported: BC ID 431
+[2026-02-20 06:28:49] [INFO] Customer already imported: BC ID 430
+[2026-02-20 06:28:49] [INFO] Customer already imported: BC ID 429
+[2026-02-20 06:28:49] [INFO] Customer already imported: BC ID 428
+[2026-02-20 06:28:49] [INFO] Customer already imported: BC ID 427
+[2026-02-20 06:28:49] [INFO] Customer already imported: BC ID 426
+[2026-02-20 06:28:49] [INFO] Customer already imported: BC ID 425
+[2026-02-20 06:28:49] [INFO] Customer already imported: BC ID 424
+[2026-02-20 06:28:49] [INFO] Customer already imported: BC ID 423
+[2026-02-20 06:28:49] [INFO] Customer already imported: BC ID 422
+[2026-02-20 06:28:49] [INFO] Customer already imported: BC ID 421
+[2026-02-20 06:28:49] [INFO] Customer already imported: BC ID 420
+[2026-02-20 06:28:49] [INFO] Customer already imported: BC ID 419
+[2026-02-20 06:28:49] [INFO] Customer already imported: BC ID 418
+[2026-02-20 06:28:49] [INFO] Customer already imported: BC ID 417
+[2026-02-20 06:28:49] [INFO] Customer already imported: BC ID 416
+[2026-02-20 06:28:49] [INFO] Customer already imported: BC ID 415
+[2026-02-20 06:28:49] [INFO] Customer already imported: BC ID 414
+[2026-02-20 06:28:49] [INFO] Customer already imported: BC ID 413
+[2026-02-20 06:28:49] [INFO] Customer already imported: BC ID 412
+[2026-02-20 06:28:49] [INFO] Customer already imported: BC ID 411
+[2026-02-20 06:28:49] [INFO] Customer already imported: BC ID 410
+[2026-02-20 06:28:49] [INFO] Customer already imported: BC ID 409
+[2026-02-20 06:28:49] [ERROR] Execption error - Shopify API Error (422): {"errors":{"email":["has already been taken"]}} - BC id=408 -- Email: ashley.offer@oneatlas.com
+[2026-02-20 06:28:50] [ERROR] Execption error - Shopify API Error (422): {"errors":{"email":["has already been taken"]}} - BC id=407 -- Email: bgiannelli@arcticglacier.com
+[2026-02-20 06:28:50] [INFO] Customer already imported: BC ID 406
+[2026-02-20 06:28:50] [INFO] Customer already imported: BC ID 405
+[2026-02-20 06:28:50] [INFO] Customer already imported: BC ID 404
+[2026-02-20 06:28:50] [INFO] Customer already imported: BC ID 403
+[2026-02-20 06:28:50] [INFO] Customer already imported: BC ID 402
+[2026-02-20 06:28:50] [INFO] Customer already imported: BC ID 401
+[2026-02-20 06:28:50] [INFO] Customer already imported: BC ID 400
+[2026-02-20 06:28:50] [INFO] Customer already imported: BC ID 399
+[2026-02-20 06:28:50] [INFO] Customer already imported: BC ID 398
+[2026-02-20 06:28:50] [INFO] Customer already imported: BC ID 397
+[2026-02-20 06:28:50] [INFO] Customer already imported: BC ID 396
+[2026-02-20 06:28:50] [INFO] Customer already imported: BC ID 395
+[2026-02-20 06:28:50] [INFO] Customer already imported: BC ID 394
+[2026-02-20 06:28:50] [INFO] Customer already imported: BC ID 393
+[2026-02-20 06:28:50] [INFO] Customer already imported: BC ID 392
+[2026-02-20 06:28:50] [INFO] Customer already imported: BC ID 391
+[2026-02-20 06:28:50] [INFO] Customer already imported: BC ID 390
+[2026-02-20 06:28:50] [INFO] Customer already imported: BC ID 389
+[2026-02-20 06:28:50] [INFO] Customer already imported: BC ID 388
+[2026-02-20 06:28:50] [INFO] Customer already imported: BC ID 387
+[2026-02-20 06:28:50] [INFO] Customer already imported: BC ID 386
+[2026-02-20 06:28:50] [INFO] Customer already imported: BC ID 385
+[2026-02-20 06:28:50] [INFO] Customer already imported: BC ID 384
+[2026-02-20 06:28:50] [INFO] Customer already imported: BC ID 383
+[2026-02-20 06:28:50] [ERROR] Execption error - Shopify API Error (422): {"errors":{"email":["has already been taken"]}} - BC id=382 -- Email: globalelectric@bright.net
+[2026-02-20 06:28:50] [INFO] Customer already imported: BC ID 381
+[2026-02-20 06:28:51] [ERROR] Execption error - Shopify API Error (422): {"errors":{"email":["has already been taken"]}} - BC id=380 -- Email: mdpiner@hotmail.com
+[2026-02-20 06:28:51] [INFO] Customer already imported: BC ID 379
+[2026-02-20 06:28:51] [INFO] Customer already imported: BC ID 378
+[2026-02-20 06:28:51] [INFO] Customer already imported: BC ID 377
+[2026-02-20 06:28:51] [INFO] Customer already imported: BC ID 376
+[2026-02-20 06:28:51] [INFO] Customer already imported: BC ID 375
+[2026-02-20 06:28:51] [INFO] Customer already imported: BC ID 374
+[2026-02-20 06:28:51] [INFO] Customer already imported: BC ID 373
+[2026-02-20 06:28:51] [INFO] Customer already imported: BC ID 372
+[2026-02-20 06:28:51] [INFO] Customer already imported: BC ID 371
+[2026-02-20 06:28:51] [INFO] Customer already imported: BC ID 370
+[2026-02-20 06:28:51] [INFO] Customer already imported: BC ID 369
+[2026-02-20 06:28:51] [INFO] Customer already imported: BC ID 368
+[2026-02-20 06:28:51] [ERROR] Execption error - Shopify API Error (422): {"errors":{"email":["has already been taken"]}} - BC id=367 -- Email: dsimpson@pastamia.com
+[2026-02-20 06:28:51] [INFO] Customer already imported: BC ID 366
+[2026-02-20 06:28:51] [INFO] Customer already imported: BC ID 365
+[2026-02-20 06:28:51] [INFO] Customer already imported: BC ID 364
+[2026-02-20 06:28:52] [ERROR] Execption error - Shopify API Error (422): {"errors":{"email":["has already been taken"]}} - BC id=363 -- Email: halled@vmcmail.com
+[2026-02-20 06:28:52] [INFO] Customer already imported: BC ID 362
+[2026-02-20 06:28:52] [INFO] Customer already imported: BC ID 361
+[2026-02-20 06:28:52] [INFO] Customer already imported: BC ID 360
+[2026-02-20 06:28:52] [INFO] Customer already imported: BC ID 359
+[2026-02-20 06:28:52] [INFO] Customer already imported: BC ID 358
+[2026-02-20 06:28:52] [INFO] Customer already imported: BC ID 357
+[2026-02-20 06:28:52] [INFO] Customer already imported: BC ID 356
+[2026-02-20 06:28:52] [INFO] Customer already imported: BC ID 355
+[2026-02-20 06:28:52] [INFO] Customer already imported: BC ID 354
+[2026-02-20 06:28:52] [INFO] Customer already imported: BC ID 353
+[2026-02-20 06:28:52] [INFO] Customer already imported: BC ID 352
+[2026-02-20 06:28:52] [ERROR] Execption error - Shopify API Error (422): {"errors":{"email":["has already been taken"]}} - BC id=351 -- Email: gkuehn@kenesaw.org
+[2026-02-20 06:28:52] [INFO] Customer already imported: BC ID 350
+[2026-02-20 06:28:52] [INFO] Customer already imported: BC ID 349
+[2026-02-20 06:28:52] [INFO] Customer already imported: BC ID 348
+[2026-02-20 06:28:52] [INFO] Customer already imported: BC ID 347
+[2026-02-20 06:28:52] [INFO] Customer already imported: BC ID 346
+[2026-02-20 06:28:52] [INFO] Customer already imported: BC ID 345
+[2026-02-20 06:28:53] [ERROR] Execption error - Shopify API Error (422): {"errors":{"email":["has already been taken"]}} - BC id=344 -- Email: josephh@cal-am.com
+[2026-02-20 06:28:53] [ERROR] Execption error - Shopify API Error (422): {"errors":{"email":["has already been taken"]}} - BC id=343 -- Email: boyettrd@outlook.com
+[2026-02-20 06:28:53] [INFO] Customer already imported: BC ID 342
+[2026-02-20 06:28:53] [INFO] Customer already imported: BC ID 341
+[2026-02-20 06:28:53] [INFO] Customer already imported: BC ID 340
+[2026-02-20 06:28:53] [INFO] Customer already imported: BC ID 339
+[2026-02-20 06:28:53] [INFO] Customer already imported: BC ID 338
+[2026-02-20 06:28:53] [INFO] Customer already imported: BC ID 337
+[2026-02-20 06:28:53] [INFO] Customer already imported: BC ID 336
+[2026-02-20 06:28:53] [INFO] Customer already imported: BC ID 335
+[2026-02-20 06:28:53] [INFO] Customer already imported: BC ID 334
+[2026-02-20 06:28:53] [INFO] Customer already imported: BC ID 333
+[2026-02-20 06:28:53] [INFO] Customer already imported: BC ID 332
+[2026-02-20 06:28:53] [INFO] Customer already imported: BC ID 331
+[2026-02-20 06:28:53] [INFO] Customer already imported: BC ID 330
+[2026-02-20 06:28:53] [INFO] Customer already imported: BC ID 329
+[2026-02-20 06:28:53] [INFO] Customer already imported: BC ID 328
+[2026-02-20 06:28:53] [INFO] Customer already imported: BC ID 327
+[2026-02-20 06:28:53] [ERROR] Execption error - Shopify API Error (422): {"errors":{"email":["has already been taken"]}} - BC id=326 -- Email: matt@windycitycurling.org
+[2026-02-20 06:28:53] [INFO] Customer already imported: BC ID 325
+[2026-02-20 06:28:53] [INFO] Customer already imported: BC ID 324
+[2026-02-20 06:28:53] [INFO] Customer already imported: BC ID 323
+[2026-02-20 06:28:53] [INFO] Customer already imported: BC ID 322
+[2026-02-20 06:28:53] [INFO] Customer already imported: BC ID 321
+[2026-02-20 06:28:53] [INFO] Customer already imported: BC ID 320
+[2026-02-20 06:28:53] [INFO] Customer already imported: BC ID 319
+[2026-02-20 06:28:53] [INFO] Customer already imported: BC ID 318
+[2026-02-20 06:28:53] [INFO] Customer already imported: BC ID 317
+[2026-02-20 06:28:53] [INFO] Customer already imported: BC ID 316
+[2026-02-20 06:28:53] [INFO] Customer already imported: BC ID 314
+[2026-02-20 06:28:53] [INFO] Customer already imported: BC ID 313
+[2026-02-20 06:28:53] [INFO] Customer already imported: BC ID 312
+[2026-02-20 06:28:53] [INFO] Customer already imported: BC ID 311
+[2026-02-20 06:28:58] [INFO] Customer been created - Shopidy ID - 9985203568954 - BC id=310
+[2026-02-20 06:28:58] [INFO] Customer already imported: BC ID 309
+[2026-02-20 06:28:58] [INFO] Customer already imported: BC ID 308
+[2026-02-20 06:28:58] [INFO] Customer already imported: BC ID 307
+[2026-02-20 06:28:58] [INFO] Customer already imported: BC ID 306
+[2026-02-20 06:28:58] [INFO] Customer already imported: BC ID 305
+[2026-02-20 06:28:58] [INFO] Customer already imported: BC ID 304
+[2026-02-20 06:28:58] [INFO] Customer already imported: BC ID 303
+[2026-02-20 06:28:58] [INFO] Customer already imported: BC ID 302
+[2026-02-20 06:28:58] [INFO] Customer already imported: BC ID 301
+[2026-02-20 06:28:58] [INFO] Customer already imported: BC ID 300
+[2026-02-20 06:28:58] [INFO] Customer already imported: BC ID 299
+[2026-02-20 06:28:58] [ERROR] Execption error - Shopify API Error (422): {"errors":{"email":["has already been taken"]}} - BC id=298 -- Email: lane@simonop.com
+[2026-02-20 06:28:58] [INFO] Customer already imported: BC ID 297
+[2026-02-20 06:28:58] [INFO] Customer already imported: BC ID 296
+[2026-02-20 06:28:58] [INFO] Customer already imported: BC ID 295
+[2026-02-20 06:28:58] [INFO] Customer already imported: BC ID 294
+[2026-02-20 06:28:59] [ERROR] Execption error - Shopify API Error (422): {"errors":{"email":["has already been taken"]}} - BC id=293 -- Email: cdyches@mainline-ind.com
+[2026-02-20 06:28:59] [INFO] Customer already imported: BC ID 292
+[2026-02-20 06:28:59] [INFO] Customer already imported: BC ID 291
+[2026-02-20 06:28:59] [INFO] Customer already imported: BC ID 290
+[2026-02-20 06:29:00] [ERROR] No addresses found - - BC id=289
+[2026-02-20 06:29:00] [INFO] Customer already imported: BC ID 288
+[2026-02-20 06:29:00] [INFO] Customer already imported: BC ID 285
+[2026-02-20 06:29:00] [INFO] Customer already imported: BC ID 284
+[2026-02-20 06:29:00] [INFO] Customer already imported: BC ID 283
+[2026-02-20 06:29:00] [INFO] Customer already imported: BC ID 282
+[2026-02-20 06:29:00] [INFO] Customer already imported: BC ID 281
+[2026-02-20 06:29:00] [INFO] Customer already imported: BC ID 280
+[2026-02-20 06:29:00] [INFO] Customer already imported: BC ID 279
+[2026-02-20 06:29:00] [INFO] Customer already imported: BC ID 278
+[2026-02-20 06:29:00] [INFO] Customer already imported: BC ID 277
+[2026-02-20 06:29:00] [INFO] Customer already imported: BC ID 276
+[2026-02-20 06:29:00] [INFO] Customer already imported: BC ID 275
+[2026-02-20 06:29:00] [INFO] Customer already imported: BC ID 274
+[2026-02-20 06:29:00] [INFO] Customer already imported: BC ID 273
+[2026-02-20 06:29:00] [INFO] Customer already imported: BC ID 272
+[2026-02-20 06:29:00] [INFO] Customer already imported: BC ID 271
+[2026-02-20 06:29:00] [INFO] Customer already imported: BC ID 270
+[2026-02-20 06:29:01] [ERROR] Execption error - Shopify API Error (422): {"errors":{"email":["has already been taken"]}} - BC id=269 -- Email: fay.jones1953@yahoo.com
+[2026-02-20 06:29:01] [INFO] Customer already imported: BC ID 268
+[2026-02-20 06:29:01] [INFO] Customer already imported: BC ID 267
+[2026-02-20 06:29:01] [ERROR] Execption error - Shopify API Error (422): {"errors":{"email":["has already been taken"]}} - BC id=266 -- Email: cofbutilities@gmail.com
+[2026-02-20 06:29:01] [INFO] Customer already imported: BC ID 265
+[2026-02-20 06:29:01] [INFO] Customer already imported: BC ID 264
+[2026-02-20 06:29:01] [INFO] Customer already imported: BC ID 263
+[2026-02-20 06:29:01] [INFO] Customer already imported: BC ID 262
+[2026-02-20 06:29:01] [INFO] Customer already imported: BC ID 261
+[2026-02-20 06:29:02] [ERROR] Execption error - Shopify API Error (422): {"errors":{"email":["has already been taken"]}} - BC id=260 -- Email: merickson@coawi.org
+[2026-02-20 06:29:02] [INFO] Customer already imported: BC ID 259
+[2026-02-20 06:29:02] [INFO] Customer already imported: BC ID 258
+[2026-02-20 06:29:02] [INFO] Customer already imported: BC ID 257
+[2026-02-20 06:29:02] [INFO] Customer already imported: BC ID 256
+[2026-02-20 06:29:02] [INFO] Customer already imported: BC ID 255
+[2026-02-20 06:29:02] [INFO] Customer already imported: BC ID 254
+[2026-02-20 06:29:02] [INFO] Customer already imported: BC ID 253
+[2026-02-20 06:29:02] [INFO] Customer already imported: BC ID 252
+[2026-02-20 06:29:02] [INFO] Customer already imported: BC ID 251
+[2026-02-20 06:29:02] [INFO] Customer already imported: BC ID 250
+[2026-02-20 06:29:02] [INFO] Customer already imported: BC ID 249
+[2026-02-20 06:29:02] [INFO] Customer already imported: BC ID 248
+[2026-02-20 06:29:02] [INFO] Customer already imported: BC ID 247
+[2026-02-20 06:29:02] [INFO] Customer already imported: BC ID 246
+[2026-02-20 06:29:02] [INFO] Customer already imported: BC ID 245
+[2026-02-20 06:29:02] [INFO] Customer already imported: BC ID 244
+[2026-02-20 06:29:02] [INFO] Customer already imported: BC ID 243
+[2026-02-20 06:29:02] [INFO] Customer already imported: BC ID 242
+[2026-02-20 06:29:02] [INFO] Customer already imported: BC ID 241
+[2026-02-20 06:29:02] [INFO] Customer already imported: BC ID 240
+[2026-02-20 06:29:02] [ERROR] Execption error - Shopify API Error (422): {"errors":{"email":["has already been taken"]}} - BC id=239 -- Email: treasurer@lutheranch.ca
+[2026-02-20 06:29:02] [INFO] Customer already imported: BC ID 238
+[2026-02-20 06:29:02] [INFO] Customer already imported: BC ID 237
+[2026-02-20 06:29:02] [INFO] Customer already imported: BC ID 236
+[2026-02-20 06:29:02] [INFO] Customer already imported: BC ID 235
+[2026-02-20 06:29:02] [INFO] Customer already imported: BC ID 234
+[2026-02-20 06:29:02] [INFO] Customer already imported: BC ID 233
+[2026-02-20 06:29:02] [INFO] Customer already imported: BC ID 232
+[2026-02-20 06:29:02] [INFO] Customer already imported: BC ID 231
+[2026-02-20 06:29:02] [INFO] Customer already imported: BC ID 230
+[2026-02-20 06:29:02] [INFO] Customer already imported: BC ID 229
+[2026-02-20 06:29:02] [INFO] Customer already imported: BC ID 227
+[2026-02-20 06:29:02] [INFO] Customer already imported: BC ID 226
+[2026-02-20 06:29:02] [INFO] Customer already imported: BC ID 225
+[2026-02-20 06:29:02] [INFO] Customer already imported: BC ID 224
+[2026-02-20 06:29:02] [INFO] Customer already imported: BC ID 223
+[2026-02-20 06:29:02] [INFO] Customer already imported: BC ID 222
+[2026-02-20 06:29:02] [INFO] Customer already imported: BC ID 221
+[2026-02-20 06:29:02] [INFO] Customer already imported: BC ID 220
+[2026-02-20 06:29:02] [INFO] Customer already imported: BC ID 219
+[2026-02-20 06:29:02] [INFO] Customer already imported: BC ID 218
+[2026-02-20 06:29:02] [INFO] Customer already imported: BC ID 217
+[2026-02-20 06:29:02] [INFO] Customer already imported: BC ID 216
+[2026-02-20 06:29:02] [INFO] Customer already imported: BC ID 215
+[2026-02-20 06:29:02] [INFO] Customer already imported: BC ID 214
+[2026-02-20 06:29:02] [INFO] Customer already imported: BC ID 213
+[2026-02-20 06:29:02] [INFO] Customer already imported: BC ID 212
+[2026-02-20 06:29:03] [ERROR] Execption error - Shopify API Error (422): {"errors":{"email":["has already been taken"]}} - BC id=211 -- Email: andy.robinson@arcadis.com
+[2026-02-20 06:29:03] [INFO] Customer already imported: BC ID 210
+[2026-02-20 06:29:03] [INFO] Customer already imported: BC ID 209
+[2026-02-20 06:29:03] [INFO] Customer already imported: BC ID 208
+[2026-02-20 06:29:03] [ERROR] Execption error - Shopify API Error (422): {"errors":{"email":["has already been taken"]}} - BC id=207 -- Email: bnorton1@wm.com
+[2026-02-20 06:29:03] [INFO] Customer already imported: BC ID 206
+[2026-02-20 06:29:03] [ERROR] Execption error - Shopify API Error (422): {"errors":{"email":["has already been taken"]}} - BC id=205 -- Email: DUTCHGARDENS@MARKTWAIN.NET
+[2026-02-20 06:29:03] [INFO] Customer already imported: BC ID 204
+[2026-02-20 06:29:03] [INFO] Customer already imported: BC ID 203
+[2026-02-20 06:29:08] [INFO] Customer been created - Shopidy ID - 9985204126010 - BC id=202
+[2026-02-20 06:29:08] [INFO] Customer already imported: BC ID 201
+[2026-02-20 06:29:08] [INFO] Customer already imported: BC ID 200
+[2026-02-20 06:29:08] [INFO] Customer already imported: BC ID 199
+[2026-02-20 06:29:08] [INFO] Customer already imported: BC ID 198
+[2026-02-20 06:29:12] [INFO] Customer been created - Shopidy ID - 9985204257082 - BC id=197
+[2026-02-20 06:29:12] [INFO] Customer already imported: BC ID 196
+[2026-02-20 06:29:12] [ERROR] Execption error - Shopify API Error (422): {"errors":{"email":["has already been taken"]}} - BC id=195 -- Email: pitstopsh@yahoo.com
+[2026-02-20 06:29:12] [INFO] Customer already imported: BC ID 194
+[2026-02-20 06:29:12] [INFO] Customer already imported: BC ID 192
+[2026-02-20 06:29:12] [INFO] Customer already imported: BC ID 191
+[2026-02-20 06:29:13] [ERROR] Execption error - Shopify API Error (422): {"errors":{"email":["has already been taken"]}} - BC id=190 -- Email: carigna4@msu.edu
+[2026-02-20 06:29:13] [INFO] Customer already imported: BC ID 189
+[2026-02-20 06:29:13] [INFO] Customer already imported: BC ID 188
+[2026-02-20 06:29:13] [INFO] Customer already imported: BC ID 187
+[2026-02-20 06:29:13] [ERROR] Execption error - Shopify API Error (422): {"errors":{"email":["has already been taken"]}} - BC id=186 -- Email: olivia.crosby@wsp.com
+[2026-02-20 06:29:13] [INFO] Customer already imported: BC ID 185
+[2026-02-20 06:29:13] [ERROR] Execption error - Shopify API Error (422): {"errors":{"email":["has already been taken"]}} - BC id=184 -- Email: wilson.cobb@mssm.edu
+[2026-02-20 06:29:13] [INFO] Customer already imported: BC ID 183
+[2026-02-20 06:29:13] [INFO] Customer already imported: BC ID 182
+[2026-02-20 06:29:13] [INFO] Customer already imported: BC ID 181
+[2026-02-20 06:29:13] [INFO] Customer already imported: BC ID 180
+[2026-02-20 06:29:13] [INFO] Customer already imported: BC ID 179
+[2026-02-20 06:29:13] [INFO] Customer already imported: BC ID 178
+[2026-02-20 06:29:13] [INFO] Customer already imported: BC ID 177
+[2026-02-20 06:29:13] [INFO] Customer already imported: BC ID 176
+[2026-02-20 06:29:14] [ERROR] Execption error - Shopify API Error (422): {"errors":{"email":["has already been taken"]}} - BC id=175 -- Email: brandon.furches@scherbon.com
+[2026-02-20 06:29:14] [INFO] Customer already imported: BC ID 174
+[2026-02-20 06:29:14] [INFO] Customer already imported: BC ID 173
+[2026-02-20 06:29:14] [INFO] Customer already imported: BC ID 172
+[2026-02-20 06:29:14] [INFO] Customer already imported: BC ID 171
+[2026-02-20 06:29:14] [INFO] Customer already imported: BC ID 170
+[2026-02-20 06:29:14] [INFO] Customer already imported: BC ID 169
+[2026-02-20 06:29:14] [INFO] Customer already imported: BC ID 168
+[2026-02-20 06:29:14] [INFO] Customer already imported: BC ID 167
+[2026-02-20 06:29:16] [ERROR] No addresses found - - BC id=166
+[2026-02-20 06:29:16] [INFO] Customer already imported: BC ID 165
+[2026-02-20 06:29:16] [INFO] Customer already imported: BC ID 164
+[2026-02-20 06:29:16] [INFO] Customer already imported: BC ID 163
+[2026-02-20 06:29:16] [INFO] Customer already imported: BC ID 162
+[2026-02-20 06:29:16] [INFO] Customer already imported: BC ID 161
+[2026-02-20 06:29:16] [INFO] Customer already imported: BC ID 160
+[2026-02-20 06:29:16] [INFO] Customer already imported: BC ID 159
+[2026-02-20 06:29:16] [INFO] Customer already imported: BC ID 158
+[2026-02-20 06:29:16] [ERROR] Execption error - Shopify API Error (422): {"errors":{"email":["has already been taken"]}} - BC id=157 -- Email: jparnell@wellingtonagresearch.com
+[2026-02-20 06:29:16] [INFO] Customer already imported: BC ID 156
+[2026-02-20 06:29:16] [INFO] Customer already imported: BC ID 155
+[2026-02-20 06:29:16] [INFO] Customer already imported: BC ID 154
+[2026-02-20 06:29:16] [INFO] Customer already imported: BC ID 153
+[2026-02-20 06:29:16] [INFO] Customer already imported: BC ID 152
+[2026-02-20 06:29:16] [INFO] Customer already imported: BC ID 151
+[2026-02-20 06:29:16] [INFO] Customer already imported: BC ID 150
+[2026-02-20 06:29:16] [INFO] Customer already imported: BC ID 149
+[2026-02-20 06:29:16] [INFO] Customer already imported: BC ID 148
+[2026-02-20 06:29:16] [INFO] Customer already imported: BC ID 147
+[2026-02-20 06:29:16] [INFO] Customer already imported: BC ID 146
+[2026-02-20 06:29:16] [INFO] Customer already imported: BC ID 145
+[2026-02-20 06:29:16] [INFO] Customer already imported: BC ID 144
+[2026-02-20 06:29:16] [INFO] Customer already imported: BC ID 143
+[2026-02-20 06:29:16] [INFO] Customer already imported: BC ID 142
+[2026-02-20 06:29:16] [INFO] Customer already imported: BC ID 141
+[2026-02-20 06:29:16] [INFO] Customer already imported: BC ID 140
+[2026-02-20 06:29:16] [INFO] Customer already imported: BC ID 139
+[2026-02-20 06:29:16] [INFO] Customer already imported: BC ID 138
+[2026-02-20 06:29:16] [INFO] Customer already imported: BC ID 137
+[2026-02-20 06:29:16] [INFO] Customer already imported: BC ID 136
+[2026-02-20 06:29:16] [INFO] Customer already imported: BC ID 135
+[2026-02-20 06:29:16] [INFO] Customer already imported: BC ID 134
+[2026-02-20 06:29:16] [INFO] Customer already imported: BC ID 133
+[2026-02-20 06:29:16] [INFO] Customer already imported: BC ID 132
+[2026-02-20 06:29:16] [INFO] Customer already imported: BC ID 131
+[2026-02-20 06:29:16] [INFO] Customer already imported: BC ID 130
+[2026-02-20 06:29:16] [INFO] Customer already imported: BC ID 129
+[2026-02-20 06:29:16] [INFO] Customer already imported: BC ID 127
+[2026-02-20 06:29:16] [ERROR] Execption error - Shopify API Error (422): {"errors":{"email":["has already been taken"]}} - BC id=126 -- Email: KRosser@sevenson.com
+[2026-02-20 06:29:16] [INFO] Customer already imported: BC ID 125
+[2026-02-20 06:29:17] [ERROR] Execption error - Shopify API Error (422): {"errors":{"email":["has already been taken"]}} - BC id=124 -- Email: brent.williams@peerlessmidwest.com
+[2026-02-20 06:29:17] [INFO] Customer already imported: BC ID 123
+[2026-02-20 06:29:17] [INFO] Customer already imported: BC ID 122
+[2026-02-20 06:29:17] [INFO] Customer already imported: BC ID 121
+[2026-02-20 06:29:17] [ERROR] Execption error - Shopify API Error (422): {"errors":{"email":["has already been taken"]}} - BC id=120 -- Email: steve@powerups.com
+[2026-02-20 06:29:17] [INFO] Customer already imported: BC ID 119
+[2026-02-20 06:29:17] [INFO] Customer already imported: BC ID 118
+[2026-02-20 06:29:17] [INFO] Customer already imported: BC ID 116
+[2026-02-20 06:29:17] [INFO] Customer already imported: BC ID 115
+[2026-02-20 06:29:17] [INFO] Customer already imported: BC ID 114
+[2026-02-20 06:29:17] [INFO] Customer already imported: BC ID 113
+[2026-02-20 06:29:17] [INFO] Customer already imported: BC ID 112
+[2026-02-20 06:29:17] [INFO] Customer already imported: BC ID 111
+[2026-02-20 06:29:17] [INFO] Customer already imported: BC ID 110
+[2026-02-20 06:29:17] [INFO] Customer already imported: BC ID 109
+[2026-02-20 06:29:17] [INFO] Customer already imported: BC ID 108
+[2026-02-20 06:29:17] [INFO] Customer already imported: BC ID 107
+[2026-02-20 06:29:17] [INFO] Customer already imported: BC ID 106
+[2026-02-20 06:29:17] [INFO] Customer already imported: BC ID 105
+[2026-02-20 06:29:17] [INFO] Customer already imported: BC ID 104
+[2026-02-20 06:29:17] [INFO] Customer already imported: BC ID 103
+[2026-02-20 06:29:17] [INFO] Customer already imported: BC ID 102
+[2026-02-20 06:29:17] [INFO] Customer already imported: BC ID 101
+[2026-02-20 06:29:17] [INFO] Customer already imported: BC ID 100
+[2026-02-20 06:29:18] [ERROR] Execption error - Shopify API Error (422): {"errors":{"email":["has already been taken"]}} - BC id=99 -- Email: bct2@bigcommerce.com
+[2026-02-20 06:29:18] [INFO] Customer already imported: BC ID 98
+[2026-02-20 06:29:18] [INFO] Customer already imported: BC ID 97
+[2026-02-20 06:29:18] [INFO] Customer already imported: BC ID 96
+[2026-02-20 06:29:18] [INFO] Customer already imported: BC ID 95
+[2026-02-20 06:29:18] [INFO] Customer already imported: BC ID 94
+[2026-02-20 06:29:18] [INFO] Customer already imported: BC ID 93
+[2026-02-20 06:29:18] [INFO] Customer already imported: BC ID 92
+[2026-02-20 06:29:18] [INFO] Customer already imported: BC ID 91
+[2026-02-20 06:29:18] [INFO] Customer already imported: BC ID 90
+[2026-02-20 06:29:18] [INFO] Customer already imported: BC ID 89
+[2026-02-20 06:29:18] [INFO] Customer already imported: BC ID 88
+[2026-02-20 06:29:18] [INFO] Customer already imported: BC ID 87
+[2026-02-20 06:29:18] [INFO] Customer already imported: BC ID 86
+[2026-02-20 06:29:18] [INFO] Customer already imported: BC ID 85
+[2026-02-20 06:29:18] [INFO] Customer already imported: BC ID 84
+[2026-02-20 06:29:18] [INFO] Customer already imported: BC ID 82
+[2026-02-20 06:29:18] [INFO] Customer already imported: BC ID 81
+[2026-02-20 06:29:18] [INFO] Customer already imported: BC ID 80
+[2026-02-20 06:29:18] [ERROR] Execption error - Shopify API Error (422): {"errors":{"email":["has already been taken"]}} - BC id=79 -- Email: julio.coronado@floridabrewery.com
+[2026-02-20 06:29:18] [INFO] Customer already imported: BC ID 78
+[2026-02-20 06:29:18] [INFO] Customer already imported: BC ID 77
+[2026-02-20 06:29:18] [INFO] Customer already imported: BC ID 76
+[2026-02-20 06:29:18] [INFO] Customer already imported: BC ID 75
+[2026-02-20 06:29:18] [INFO] Customer already imported: BC ID 74
+[2026-02-20 06:29:18] [INFO] Customer already imported: BC ID 73
+[2026-02-20 06:29:18] [INFO] Customer already imported: BC ID 72
+[2026-02-20 06:29:18] [INFO] Customer already imported: BC ID 71
+[2026-02-20 06:29:18] [INFO] Customer already imported: BC ID 70
+[2026-02-20 06:29:22] [INFO] Customer been created - Shopidy ID - 9985204814138 - BC id=69
+[2026-02-20 06:29:22] [INFO] Customer already imported: BC ID 67
+[2026-02-20 06:29:22] [INFO] Customer already imported: BC ID 66
+[2026-02-20 06:29:22] [INFO] Customer already imported: BC ID 65
+[2026-02-20 06:29:22] [INFO] Customer already imported: BC ID 63
+[2026-02-20 06:29:22] [INFO] Customer already imported: BC ID 62
+[2026-02-20 06:29:22] [INFO] Customer already imported: BC ID 60
+[2026-02-20 06:29:22] [INFO] Customer already imported: BC ID 59
+[2026-02-20 06:29:22] [INFO] Customer already imported: BC ID 58
+[2026-02-20 06:29:22] [INFO] Customer already imported: BC ID 57
+[2026-02-20 06:29:22] [INFO] Customer already imported: BC ID 54
+[2026-02-20 06:29:22] [INFO] Customer already imported: BC ID 31
